@@ -1,0 +1,1338 @@
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.5.8.3))	 12
+(Vitamin B6 metabolism (map00750), 5'-phosphate synthase (ec:2.6.99.2))	 3
+(Aminoacyl-tRNA biosynthesis (map00970), formyltransferase (ec:2.1.2.9))	 2
+(Pyrimidine metabolism (map00240), dehydrogenase (NAD+) (ec:1.3.1.1))	 3
+(Porphyrin and chlorophyll metabolism (map00860), protoporphyrin IX methyltransferase (ec:2.1.1.11))	 1
+(Starch and sucrose metabolism (map00500), synthase (ec:2.4.1.34))	 1
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.8.1.4))	 26
+(Peptidoglycan biosynthesis (map00550), beta-N-acetylglucosaminyltransferase (ec:2.4.1.227))	 1
+(Arachidonic acid metabolism (map00590), epoxide hydrolase (ec:3.3.2.10))	 2
+(Cysteine and methionine metabolism (map00270), S-methyltransferase (ec:2.1.1.14))	 7
+(Butanoate metabolism (map00650), dehydrogenase (ec:1.1.99.2))	 1
+(Chlorocyclohexane and chlorobenzene degradation (map00361), cycloisomerase (ec:5.5.1.1))	 1
+(Pyrimidine metabolism (map00240), diphosphate phosphatase (ec:3.6.1.6))	 1
+(Pentose phosphate pathway (map00030), aldolase (ec:4.1.2.13))	 18
+(Purine metabolism (map00230), deaminase (ec:3.5.4.2))	 1
+(Valine, leucine and isoleucine degradation (map00280), transaminase (ec:2.6.1.18))	 21
+(Carbon fixation in photosynthetic organisms (map00710), dehydrogenase (oxaloacetate-decarboxylating) (NADP+) (ec:1.1.1.40))	 27
+(Fructose and mannose metabolism (map00051), phosphohexokinase (ec:2.7.1.11))	 6
+(Polycyclic aromatic hydrocarbon degradation (map00624), 4,5-dioxygenase (ec:1.14.12.7))	 2
+(Pyruvate metabolism (map00620), reductase (ec:1.1.1.77))	 3
+(Glycosaminoglycan degradation (map00531), chondroitin sulfatase (ec:3.1.6.4))	 1
+(beta-Alanine metabolism (map00410), hydratase (ec:4.2.1.17))	 33
+(Propanoate metabolism (map00640), mutase (ec:5.4.99.2))	 26
+(Selenocompound metabolism (map00450), lyase (ec:4.4.1.16))	 3
+(Arachidonic acid metabolism (map00590), glutamyl transpeptidase (ec:2.3.2.2))	 18
+(Terpenoid backbone biosynthesis (map00900), C-acetyltransferase (ec:2.3.1.9))	 42
+(Purine metabolism (map00230), diphosphokinase (ec:2.7.6.1))	 5
+(Sulfur metabolism (map00920), sulfurtransferase (ec:2.8.1.1))	 5
+(Citrate cycle (TCA cycle) (map00020), hydratase (ec:4.2.1.2))	 18
+(Lysine biosynthesis (map00300), decarboxylase (ec:4.1.1.20))	 5
+(Steroid degradation (map00984), 4-dehydrogenase (acceptor) (ec:1.3.99.5))	 1
+(Pantothenate and CoA biosynthesis (map00770), adenylyltransferase (ec:2.7.7.3))	 1
+(Inositol phosphate metabolism (map00562), inositol-1,3-bisphosphate 3-phosphatase (ec:3.1.3.64))	 1
+(Propanoate metabolism (map00640), ligase (ec:6.2.1.17))	 11
+(Purine metabolism (map00230), reductase (ec:1.17.4.1))	 42
+(Caprolactam degradation (map00930), hydratase (ec:4.2.1.17))	 33
+(Chloroalkane and chloroalkene degradation (map00625), epoxide hydrolase (ec:3.3.2.10))	 2
+(Amino sugar and nucleotide sugar metabolism (map00520), deacetylase (ec:3.5.1.41))	 4
+(Glycosphingolipid biosynthesis - globo series (map00603), melibiase (ec:3.2.1.22))	 6
+(Valine, leucine and isoleucine degradation (map00280), dehydrogenase (2-methylpropanoyl-transferring) (ec:1.2.4.4))	 5
+(Propanoate metabolism (map00640), epimerase (ec:5.1.99.1))	 2
+(Tyrosine metabolism (map00350), decarboxylase (ec:4.1.1.80))	 1
+(Phosphatidylinositol signaling system (map04070), kinase C (ec:2.7.11.13))	 7
+(Steroid hormone biosynthesis (map00140), O-methyltransferase (ec:2.1.1.6))	 6
+(Glycerolipid metabolism (map00561), kinase (ec:2.7.1.29))	 2
+(Porphyrin and chlorophyll metabolism (map00860), dehydrogenase (ec:1.3.1.76))	 11
+(Fatty acid elongation (map00062), dehydrogenase (ec:1.1.1.35))	 17
+(Tyrosine metabolism (map00350), transaminase (ec:2.6.1.9))	 5
+(Sesquiterpenoid and triterpenoid biosynthesis (map00909), synthase (ec:2.5.1.21))	 2
+(Phosphatidylinositol signaling system (map04070), 5-phosphatase (ec:3.1.3.36))	 1
+(Porphyrin and chlorophyll metabolism (map00860), C-methyltransferase (ec:2.1.1.107))	 12
+(Synthesis and degradation of ketone bodies (map00072), CoA-transferase (ec:2.8.3.5))	 16
+(Mucin type O-Glycan biosynthesis (map00512), N-acetylgalactosaminyltransferase (ec:2.4.1.41))	 1
+(Tyrosine metabolism (map00350), transaminase (ec:2.6.1.1))	 18
+(Butanoate metabolism (map00650), lyase (ec:4.1.3.4))	 2
+(Butanoate metabolism (map00650), dehydrogenase [NAD(P)+] (ec:1.2.1.16))	 7
+(Pentose phosphate pathway (map00030), isomerase (ec:5.3.1.9))	 13
+(Glutathione metabolism (map00480), peroxidase (ec:1.11.1.9))	 1
+(Lipoic acid metabolism (map00785), synthase (ec:2.8.1.8))	 7
+(Tyrosine metabolism (map00350), beta-monooxygenase (ec:1.14.17.1))	 2
+(Glycine, serine and threonine metabolism (map00260), gamma-lyase (ec:4.4.1.1))	 2
+(Drug metabolism - other enzymes (map00983), diphosphatase (ec:3.6.1.19))	 7
+(Purine metabolism (map00230), phosphoribosyldiphosphate 5-amidotransferase (ec:2.4.2.14))	 9
+(Ubiquinone and other terpenoid-quinone biosynthesis (map00130), ligase (ec:6.2.1.26))	 2
+(Arginine and proline metabolism (map00330), decarboxylase (ec:4.1.1.17))	 2
+(Carbon fixation in photosynthetic organisms (map00710), dehydrogenase (ec:1.1.1.37))	 21
+(Purine metabolism (map00230), 3'-diphosphatase (ec:3.1.7.2))	 4
+(Arachidonic acid metabolism (map00590), 15-lipoxygenase (ec:1.13.11.33))	 1
+(Ascorbate and aldarate metabolism (map00053), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(beta-Alanine metabolism (map00410), transaminase (ec:2.6.1.18))	 21
+(Arachidonic acid metabolism (map00590), synthase (ec:1.14.99.1))	 2
+(Pyruvate metabolism (map00620), phosphate dikinase (ec:2.7.9.1))	 26
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.1.1.95))	 8
+(Carbon fixation pathways in prokaryotes (map00720), citrate synthase (ec:2.3.3.8))	 16
+(Phenylalanine metabolism (map00360), lactoperoxidase (ec:1.11.1.7))	 42
+(Pyrimidine metabolism (map00240), deaminase (ec:3.5.4.5))	 1
+(Phosphatidylinositol signaling system (map04070), 3-kinase (ec:2.7.1.154))	 1
+(Glycolysis / Gluconeogenesis (map00010), carboxykinase (ATP) (ec:4.1.1.49))	 4
+(Carbon fixation in photosynthetic organisms (map00710), dehydrogenase (phosphorylating) (ec:1.2.1.12))	 26
+(Purine metabolism (map00230), dinucleosidetriphosphatase (ec:3.6.1.29))	 1
+(Propanoate metabolism (map00640), hydrolase (ec:3.1.2.4))	 2
+(Glycine, serine and threonine metabolism (map00260), phosphatase (ec:3.1.3.3))	 4
+(Purine metabolism (map00230), diphosphokinase (ec:2.7.6.5))	 2
+(Terpenoid backbone biosynthesis (map00900), synthase (ec:2.2.1.7))	 12
+(Glycine, serine and threonine metabolism (map00260), synthase (ec:2.3.1.37))	 14
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.1.1.1))	 19
+(Carbon fixation pathways in prokaryotes (map00720), dehydrogenase (ferredoxin) (ec:1.2.7.4))	 4
+(Xylene degradation (map00622), dehydrogenase (acetylating) (ec:1.2.1.10))	 4
+(Porphyrin and chlorophyll metabolism (map00860), hydrogenobyrinic acid a,c-diamide cobaltochelatase (ec:6.6.1.2))	 12
+(Pentose and glucuronate interconversions (map00040), uridylyltransferase (ec:2.7.7.44))	 2
+(Oxidative phosphorylation (map00190), kinase (ec:2.7.4.1))	 12
+(Glycosaminoglycan degradation (map00531), chondroitinsulfatase (ec:3.1.6.13))	 1
+(Drug metabolism - cytochrome P450 (map00982), transferase (ec:2.5.1.18))	 8
+(Glycerolipid metabolism (map00561), O-acyltransferase (ec:2.3.1.22))	 1
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (succinyl-transferring) (ec:1.2.4.2))	 29
+(Fructose and mannose metabolism (map00051), aldolase (ec:4.1.2.13))	 18
+(Fatty acid elongation (map00062), hydratase (ec:4.2.1.74))	 1
+(Purine metabolism (map00230), cyclohydrolase (ec:3.5.4.10))	 6
+(Porphyrin and chlorophyll metabolism (map00860), beta-glucuronide glucuronohydrolase glucuronidase (ec:3.2.1.31))	 3
+(Valine, leucine and isoleucine biosynthesis (map00290), dehydratase (ec:4.2.1.9))	 33
+(Caffeine metabolism (map00232), oxidase (ec:1.17.3.2))	 8
+(Retinol metabolism (map00830), oxidase (ec:1.2.3.1))	 5
+(Oxidative phosphorylation (map00190), diphosphatase (ec:3.6.1.1))	 32
+(Butanoate metabolism (map00650), transaminase (ec:2.6.1.19))	 6
+(Sesquiterpenoid and triterpenoid biosynthesis (map00909), monooxygenase (ec:1.14.13.132))	 2
+(Monoterpenoid biosynthesis (map00902), synthase (ec:4.2.3.15))	 1
+(alpha-Linolenic acid metabolism (map00592), A2 (ec:3.1.1.4))	 3
+(Phenylalanine metabolism (map00360), decarboxylase (ec:4.1.1.28))	 1
+(Ascorbate and aldarate metabolism (map00053), uridylyltransferase (ec:2.7.7.44))	 2
+(Various types of N-glycan biosynthesis (map00513), 2-beta-N-acetylglucosaminyltransferase (ec:2.4.1.101))	 1
+(Carbon fixation pathways in prokaryotes (map00720), dehydrogenase (NADP+) (ec:1.5.1.5))	 4
+(mTOR signaling pathway (map04150), protein kinase (ec:2.7.11.24))	 17
+(Retinol metabolism (map00830), hydrolase (ec:3.1.1.63))	 5
+(Glyoxylate and dicarboxylate metabolism (map00630), deformylase (ec:3.5.1.68))	 1
+(Pyruvate metabolism (map00620), dehydrogenase (acetylating) (ec:1.2.1.10))	 4
+(Alanine, aspartate and glutamate metabolism (map00250), synthase (ammonia) (ec:6.3.4.16))	 2
+(Carbon fixation pathways in prokaryotes (map00720), ligase (ec:6.3.4.3))	 21
+(Phosphatidylinositol signaling system (map04070), 3-kinase (ec:2.7.1.127))	 4
+(Metabolism of xenobiotics by cytochrome P450 (map00980), dehydrogenase [NAD(P)+] (ec:1.2.1.5))	 2
+(Methane metabolism (map00680), kinase (ec:2.7.1.29))	 2
+(Terpenoid backbone biosynthesis (map00900), 5'-diphospho)-2-C-methyl-D-erythritol kinase (ec:2.7.1.148))	 2
+(Pyrimidine metabolism (map00240), DNA polymerase (ec:2.7.7.7))	 74
+(Thiamine metabolism (map00730), kinase (ec:2.7.4.7))	 4
+(Steroid biosynthesis (map00100), reductase (ec:1.3.1.72))	 2
+(Glycine, serine and threonine metabolism (map00260), amidinotransferase (ec:2.1.4.1))	 3
+(Galactose metabolism (map00052), aldolase (ec:4.1.2.21))	 5
+(Pentose phosphate pathway (map00030), dihydroxyacetonetransferase (ec:2.2.1.2))	 12
+(Selenocompound metabolism (map00450), ligase (ec:6.1.1.10))	 11
+(Pyrimidine metabolism (map00240), kinase (ec:2.7.4.14))	 4
+(Ubiquinone and other terpenoid-quinone biosynthesis (map00130), transaminase (ec:2.6.1.5))	 5
+(Carbon fixation in photosynthetic organisms (map00710), glycolaldehydetransferase (ec:2.2.1.1))	 13
+(T cell receptor signaling pathway (map04660), protein-tyrosine kinase (ec:2.7.10.2))	 30
+(Fatty acid biosynthesis (map00061), synthase I (ec:2.3.1.41))	 20
+(Alanine, aspartate and glutamate metabolism (map00250), dehydrogenase (ec:1.4.1.2))	 7
+(Glycerolipid metabolism (map00561), O-acyltransferase (ec:2.3.1.20))	 1
+(Cyanoamino acid metabolism (map00460), hydroxymethyltransferase (ec:2.1.2.1))	 12
+(Alanine, aspartate and glutamate metabolism (map00250), synthase (NADH) (ec:1.4.1.14))	 15
+(Geraniol degradation (map00281), dehydrogenase (ec:1.1.1.35))	 17
+(Glycerolipid metabolism (map00561), synthase (ec:2.4.1.241))	 1
+(Purine metabolism (map00230), nucleosidase (ec:3.2.2.4))	 2
+(Porphyrin and chlorophyll metabolism (map00860), phosphoribosyltransferase (ec:2.4.2.21))	 5
+(Toluene degradation (map00623), cycloisomerase (ec:5.5.1.1))	 1
+(Other glycan degradation (map00511), alpha-D-mannosidase (ec:3.2.1.24))	 8
+(Amino sugar and nucleotide sugar metabolism (map00520), 4-epimerase (ec:5.1.3.6))	 1
+(Riboflavin metabolism (map00740), synthase (ec:4.1.99.12))	 1
+(Biosynthesis of 12-, 14- and 16-membered macrolides (map00522), synthase (ec:2.3.1.94))	 2
+(Tryptophan metabolism (map00380), reductase (NADH) (ec:1.1.1.190))	 1
+(Carbon fixation pathways in prokaryotes (map00720), cyclohydrolase (ec:3.5.4.9))	 4
+(Steroid hormone biosynthesis (map00140), sulfatase (ec:3.1.6.1))	 11
+(Glycolysis / Gluconeogenesis (map00010), hexose diphosphatase (ec:3.1.3.11))	 15
+(Carbon fixation pathways in prokaryotes (map00720), carboxylase (ec:6.4.1.3))	 27
+(Carbon fixation in photosynthetic organisms (map00710), isomerase (ec:5.3.1.6))	 6
+(Cyanoamino acid metabolism (map00460), glutamyl transpeptidase (ec:2.3.2.2))	 18
+(Alanine, aspartate and glutamate metabolism (map00250), synthase (glutamine-hydrolysing) (ec:6.3.5.5))	 19
+(One carbon pool by folate (map00670), cyclohydrolase (ec:3.5.4.9))	 4
+(Glycine, serine and threonine metabolism (map00260), aldolase (ec:4.1.2.5))	 7
+(Pentose and glucuronate interconversions (map00040), 6-dehydrogenase (ec:1.1.1.22))	 4
+(Galactose metabolism (map00052), uridylyltransferase (ec:2.7.7.10))	 2
+(Histidine metabolism (map00340), ammonia-lyase (ec:4.3.1.3))	 5
+(Valine, leucine and isoleucine degradation (map00280), transaminase (ec:2.6.1.42))	 23
+(Isoquinoline alkaloid biosynthesis (map00950), decarboxylase (ec:4.1.1.80))	 1
+(Carbon fixation in photosynthetic organisms (map00710), aldolase (ec:4.1.2.13))	 18
+(Riboflavin metabolism (map00740), kinase (ec:2.7.1.26))	 2
+(Arginine and proline metabolism (map00330), synthase (ec:6.3.4.5))	 7
+(Polyketide sugar unit biosynthesis (map00523), 4,6-dehydratase (ec:4.2.1.46))	 1
+(Methane metabolism (map00680), hydratase (ec:4.2.1.11))	 36
+(Selenocompound metabolism (map00450), gamma-lyase (ec:4.4.1.11))	 1
+(Pyrimidine metabolism (map00240), carbamoylaspartic dehydrase (ec:3.5.2.3))	 13
+(Purine metabolism (map00230), synthase (ec:6.3.4.4))	 7
+(Aminobenzoate degradation (map00627), racemase (ec:5.1.2.2))	 5
+(Glycerophospholipid metabolism (map00564), decarboxylase (ec:4.1.1.65))	 9
+(Oxidative phosphorylation (map00190), dehydrogenase (ec:1.3.99.1))	 28
+(Nitrogen metabolism (map00910), dehydrogenase (quinone) (ec:1.6.99.5))	 27
+(Carbon fixation pathways in prokaryotes (map00720), mutase (ec:5.4.99.2))	 26
+(Nitrogen metabolism (map00910), reductase (ec:1.10.2.2))	 14
+(Valine, leucine and isoleucine degradation (map00280), dehydrogenase (acylating) (ec:1.2.1.27))	 12
+(Other glycan degradation (map00511), mannanase (ec:3.2.1.25))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), carboxylase (ec:4.1.1.39))	 13
+(Chloroalkane and chloroalkene degradation (map00625), dehydrogenase (ec:1.1.1.1))	 19
+(Glycolysis / Gluconeogenesis (map00010), carboxykinase (GTP) (ec:4.1.1.32))	 6
+(Ascorbate and aldarate metabolism (map00053), phosphotransferase (ec:2.7.1.69))	 1
+(Novobiocin biosynthesis (map00401), dehydrogenase (ec:1.3.1.43))	 1
+(Retinol metabolism (map00830), 1-monooxygenase (ec:1.14.15.3))	 1
+(Terpenoid backbone biosynthesis (map00900), diphosphate synthase (ec:2.5.1.29))	 1
+(Vitamin B6 metabolism (map00750), transaminase (ec:2.6.1.52))	 11
+(Arginine and proline metabolism (map00330), synthase (NADPH dependent) (ec:1.14.13.39))	 2
+(Glycine, serine and threonine metabolism (map00260), ec:3.5.3.3 creatinase (ec:3.5.3.3))	 10
+(Alanine, aspartate and glutamate metabolism (map00250), transaminase (isomerizing) (ec:2.6.1.16))	 4
+(Pyruvate metabolism (map00620), reductase (ec:1.1.1.21))	 3
+(Pantothenate and CoA biosynthesis (map00770), reductoisomerase (ec:1.1.1.86))	 10
+(Inositol phosphate metabolism (map00562), oxygenase (ec:1.13.99.1))	 1
+(Fatty acid metabolism (map00071), ligase (ec:6.2.1.3))	 20
+(Glyoxylate and dicarboxylate metabolism (map00630), lyase (ec:4.1.3.24))	 1
+(Tryptophan metabolism (map00380), acylamidase (ec:3.5.1.4))	 4
+(Amino sugar and nucleotide sugar metabolism (map00520), 6-dehydrogenase (ec:1.1.1.22))	 4
+(Inositol phosphate metabolism (map00562), 5-kinase (ec:2.7.1.150))	 1
+(Lysine biosynthesis (map00300), N-succinyltransferase (ec:2.3.1.117))	 6
+(Glycolysis / Gluconeogenesis (map00010), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Pyruvate metabolism (map00620), dehydrogenase (cytochrome) (ec:1.1.2.3))	 4
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.21))	 8
+(Nicotinate and nicotinamide metabolism (map00760), phosphorylase (ec:2.4.2.1))	 2
+(Pyrimidine metabolism (map00240), synthase (ec:2.1.1.45))	 9
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), phosphoribosyltransferase (ec:2.4.2.18))	 4
+(Pyruvate metabolism (map00620), synthase (ec:2.3.3.9))	 11
+(Citrate cycle (TCA cycle) (map00020), hydratase (ec:4.2.1.3))	 23
+(Butanoate metabolism (map00650), decarboxylase (ec:4.1.1.15))	 1
+(Pantothenate and CoA biosynthesis (map00770), transaminase (ec:2.6.1.42))	 23
+(beta-Alanine metabolism (map00410), synthase (ec:2.5.1.16))	 3
+(Butanoate metabolism (map00650), dehydrogenase (ec:1.3.99.1))	 28
+(Drug metabolism - other enzymes (map00983), ali-esterase (ec:3.1.1.1))	 9
+(Glutathione metabolism (map00480), dehydrogenase (NADP+-dependent, decarboxylating) (ec:1.1.1.44))	 23
+(Tyrosine metabolism (map00350), decarboxylase (ec:4.1.1.28))	 1
+(Pyruvate metabolism (map00620), hydrolase (ec:3.1.2.6))	 9
+(Arginine and proline metabolism (map00330), lyase (ec:4.3.2.1))	 10
+(Primary bile acid biosynthesis (map00120), C-acyltransferase (ec:2.3.1.176))	 8
+(Folate biosynthesis (map00790), hydrolase (ec:3.4.19.9))	 1
+(Methane metabolism (map00680), aldolase (ec:4.1.2.13))	 18
+(Citrate cycle (TCA cycle) (map00020), carboxykinase (GTP) (ec:4.1.1.32))	 6
+(Pentose phosphate pathway (map00030), aldolase (ec:4.1.2.4))	 3
+(Oxidative phosphorylation (map00190), reductase (H+-translocating) (ec:1.6.5.3))	 134
+(Biotin metabolism (map00780), synthase II (ec:2.3.1.179))	 8
+(Phenylalanine metabolism (map00360), transaminase (ec:2.6.1.9))	 5
+(Glycine, serine and threonine metabolism (map00260), racemase (ec:5.1.1.10))	 1
+(Amino sugar and nucleotide sugar metabolism (map00520), hexokinase type IV glucokinase (ec:2.7.1.1))	 3
+(Methane metabolism (map00680), phosphohexokinase (ec:2.7.1.11))	 6
+(Carbon fixation pathways in prokaryotes (map00720), Delta-isomerase (ec:5.3.3.3))	 6
+(Butanoate metabolism (map00650), acyl-CoA dehydrogenase (ec:1.3.8.1))	 8
+(Fructose and mannose metabolism (map00051), guanylyltransferase (ec:2.7.7.13))	 22
+(Glycolysis / Gluconeogenesis (map00010), aldolase (ec:4.1.2.13))	 18
+(beta-Alanine metabolism (map00410), transaminase (ec:2.6.1.19))	 6
+(Purine metabolism (map00230), adenylpyrophosphatase (ec:3.6.1.3))	 525
+(Vitamin B6 metabolism (map00750), dehydrogenase (ec:1.1.1.262))	 2
+(Glycolysis / Gluconeogenesis (map00010), dehydrogenase (ec:1.8.1.4))	 26
+(Methane metabolism (map00680), dehydrogenase (ferredoxin) (ec:1.2.7.4))	 4
+(Nitrogen metabolism (map00910), ligase (ec:6.3.1.2))	 28
+(Purine metabolism (map00230), synthase (ec:6.3.2.6))	 6
+(Purine metabolism (map00230), diphosphatase (ec:3.6.1.19))	 7
+(Folate biosynthesis (map00790), cyclohydrolase I (ec:3.5.4.16))	 5
+(Fructose and mannose metabolism (map00051), dehydrogenase (acceptor) (ec:1.1.99.21))	 1
+(Arginine and proline metabolism (map00330), ec:3.5.1.5 urease (ec:3.5.1.5))	 10
+(One carbon pool by folate (map00670), reductase (ec:1.5.1.3))	 4
+(Methane metabolism (map00680), F420 hydrogenase (ec:1.12.98.1))	 1
+(Butanoate metabolism (map00650), dehydrogenase (ec:1.1.1.157))	 9
+(Butanoate metabolism (map00650), CoA-transferase (ec:2.8.3.8))	 6
+(Propanoate metabolism (map00640), transaminase (ec:2.6.1.18))	 21
+(beta-Alanine metabolism (map00410), decarboxylase (ec:4.1.1.15))	 1
+(Purine metabolism (map00230), cyclase (ec:4.6.1.1))	 4
+(Streptomycin biosynthesis (map00521), transaminase (ec:2.6.1.50))	 2
+(Nitrogen metabolism (map00910), oxidase (ec:1.9.3.1))	 107
+(alpha-Linolenic acid metabolism (map00592), C-acyltransferase (ec:2.3.1.16))	 37
+(Sphingolipid metabolism (map00600), kinase (ec:2.7.1.91))	 1
+(Terpenoid backbone biosynthesis (map00900), 4-phosphate cytidylyltransferase (ec:2.7.7.60))	 1
+(Histidine metabolism (map00340), phosphoribosyltransferase (ec:2.4.2.17))	 2
+(Starch and sucrose metabolism (map00500), synthase (ec:2.4.1.14))	 4
+(Sulfur metabolism (map00920), O-acetyltransferase (ec:2.3.1.31))	 8
+(Glycosylphosphatidylinositol(GPI)-anchor biosynthesis (map00563), N-acetylglucosaminyltransferase (ec:2.4.1.198))	 4
+(Pentose and glucuronate interconversions (map00040), 3-dehydrogenase (ec:1.1.1.125))	 2
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (NAD+) (ec:1.1.1.41))	 1
+(Cysteine and methionine metabolism (map00270), transaminase (ec:2.6.1.1))	 18
+(Pyruvate metabolism (map00620), kinase (ec:2.7.1.40))	 16
+(Methane metabolism (map00680), dehydrogenase (ec:1.1.1.29))	 2
+(Sphingolipid metabolism (map00600), phosphodiesterase (ec:3.1.4.12))	 19
+(Fatty acid metabolism (map00071), acyl-CoA dehydrogenase (ec:1.3.8.1))	 8
+(Porphyrin and chlorophyll metabolism (map00860), oxidase (ec:1.3.3.4))	 4
+(Sphingolipid metabolism (map00600), melibiase (ec:3.2.1.22))	 6
+(Arachidonic acid metabolism (map00590), synthase (ec:5.3.99.5))	 1
+(Purine metabolism (map00230), lyase (ec:4.3.2.2))	 7
+(Alanine, aspartate and glutamate metabolism (map00250), transaminase (ec:2.6.1.1))	 18
+(Arginine and proline metabolism (map00330), deaminase (ec:3.5.4.1))	 1
+(Glycerophospholipid metabolism (map00564), N-methyltransferase (ec:2.1.1.71))	 1
+(Purine metabolism (map00230), deaminase (ec:3.5.4.6))	 3
+(Tryptophan metabolism (map00380), dehydrogenase (succinyl-transferring) (ec:1.2.4.2))	 29
+(Terpenoid backbone biosynthesis (map00900), reductase (NADPH) (ec:1.1.1.34))	 1
+(Porphyrin and chlorophyll metabolism (map00860), synthase (ec:4.2.1.75))	 2
+(Glycerophospholipid metabolism (map00564), dehydrogenase (ec:1.1.1.261))	 1
+(Pyrimidine metabolism (map00240), nucleosidase (ec:3.2.2.8))	 1
+(Steroid biosynthesis (map00100), 3-dehydrogenase (decarboxylating) (ec:1.1.1.170))	 1
+(Arachidonic acid metabolism (map00590), hydrolase (ec:3.3.2.6))	 3
+(Pyruvate metabolism (map00620), dehydrogenase (decarboxylating) (ec:1.1.1.39))	 9
+(Glyoxylate and dicarboxylate metabolism (map00630), oxidase (ec:1.1.3.15))	 10
+(Benzoate degradation (map00362), C-acyltransferase (ec:2.3.1.16))	 37
+(Arginine and proline metabolism (map00330), aminotransferase (ec:2.6.1.13))	 1
+(Drug metabolism - other enzymes (map00983), dehydrogenase (ec:1.1.1.205))	 19
+(Nicotinate and nicotinamide metabolism (map00760), nicotinamide deaminase (ec:3.5.1.19))	 1
+(Carbon fixation pathways in prokaryotes (map00720), dehydrogenase (NADP+) (ec:1.1.1.42))	 23
+(Inositol phosphate metabolism (map00562), phosphatase (ec:3.1.3.25))	 4
+(Cysteine and methionine metabolism (map00270), 1-phosphate dehydratase (ec:4.2.1.109))	 1
+(Fructose and mannose metabolism (map00051), isomerase (ec:5.3.1.25))	 2
+(Pyruvate metabolism (map00620), carboxykinase (ATP) (ec:4.1.1.49))	 4
+(Galactose metabolism (map00052), dehydratase (ec:4.2.1.6))	 7
+(Porphyrin and chlorophyll metabolism (map00860), synthase (ec:2.5.1.62))	 1
+(Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate (map00532), 4-beta-N-acetylgalactosaminyltransferase (ec:2.4.1.175))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), reductase (ec:1.1.1.26))	 3
+(Arachidonic acid metabolism (map00590), A2 (ec:3.1.1.4))	 3
+(Glyoxylate and dicarboxylate metabolism (map00630), equilase (ec:1.11.1.6))	 32
+(Fructose and mannose metabolism (map00051), isomerase (ec:5.3.1.8))	 5
+(Cysteine and methionine metabolism (map00270), isomerase (ec:5.3.1.23))	 1
+(Pentose and glucuronate interconversions (map00040), reductase (ec:1.1.1.19))	 1
+(Porphyrin and chlorophyll metabolism (map00860), oxidase (ec:1.3.3.3))	 3
+(Purine metabolism (map00230), nucleosidase (ec:3.2.2.8))	 1
+(Benzoate degradation (map00362), cycloisomerase (ec:5.5.1.1))	 1
+(Pyrimidine metabolism (map00240), carbamoyltransferase (ec:2.1.3.2))	 11
+(Tyrosine metabolism (map00350), Delta-isomerase (ec:5.3.3.10))	 7
+(One carbon pool by folate (map00670), hydroxymethyltransferase (ec:2.1.2.1))	 12
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), dehydratase (ec:4.2.1.51))	 6
+(Arginine and proline metabolism (map00330), carbamoyltransferase (ec:2.1.3.3))	 6
+(Galactose metabolism (map00052), lactase (ambiguous) (ec:3.2.1.23))	 8
+(Lysine biosynthesis (map00300), synthase (ec:2.3.3.14))	 2
+(Pentose phosphate pathway (map00030), deoxyribokinase (ec:2.7.1.15))	 2
+(Valine, leucine and isoleucine degradation (map00280), acyl-CoA dehydrogenase (ec:1.3.8.1))	 8
+(Benzoate degradation (map00362), decarboxylase (ec:4.1.1.70))	 3
+(One carbon pool by folate (map00670), dehydrogenase (NADP+) (ec:1.5.1.5))	 4
+(Amino sugar and nucleotide sugar metabolism (map00520), uridylyltransferase (ec:2.7.7.11))	 2
+(Galactose metabolism (map00052), oxidase (ec:1.1.3.9))	 1
+(Arginine and proline metabolism (map00330), dioxygenase (ec:1.14.11.2))	 3
+(Inositol phosphate metabolism (map00562), 5-phosphatase (ec:3.1.3.36))	 1
+(Taurine and hypotaurine metabolism (map00430), decarboxylase (ec:4.1.1.15))	 1
+(Primary bile acid biosynthesis (map00120), hydratase (ec:4.2.1.107))	 1
+(Terpenoid backbone biosynthesis (map00900), diphosphate reductase (ec:1.17.1.2))	 8
+(Other glycan degradation (map00511), alpha-fucosidase (ec:3.2.1.51))	 2
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), 1-carboxyvinyltransferase (ec:2.5.1.19))	 4
+(Nicotinate and nicotinamide metabolism (map00760), diphosphorylase (carboxylating) (ec:2.4.2.19))	 16
+(Valine, leucine and isoleucine degradation (map00280), synthase (ec:2.3.3.10))	 2
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), kinase (ec:2.7.1.71))	 2
+(Glycine, serine and threonine metabolism (map00260), synthase (ec:4.2.3.1))	 5
+(Aminobenzoate degradation (map00627), acylamidase (ec:3.5.1.4))	 4
+(Pantothenate and CoA biosynthesis (map00770), synthase (ec:2.7.8.7))	 1
+(Methane metabolism (map00680), synthase (ec:1.2.7.1))	 1
+(Carbon fixation pathways in prokaryotes (map00720), synthase (ec:1.2.7.1))	 1
+(Peptidoglycan biosynthesis (map00550), ligase (ec:6.3.2.13))	 1
+(Pyrimidine metabolism (map00240), RNA polymerase (ec:2.7.7.6))	 154
+(Folate biosynthesis (map00790), synthase (ec:2.5.1.15))	 1
+(Tryptophan metabolism (map00380), equilase (ec:1.11.1.6))	 32
+(Pyruvate metabolism (map00620), dehydrogenase (ec:1.8.1.4))	 26
+(Valine, leucine and isoleucine degradation (map00280), dehydrogenase (ec:1.1.1.35))	 17
+(Terpenoid backbone biosynthesis (map00900), reductoisomerase (ec:1.1.1.267))	 2
+(Valine, leucine and isoleucine biosynthesis (map00290), reductoisomerase (ec:1.1.1.86))	 10
+(Amino sugar and nucleotide sugar metabolism (map00520), transaminase (isomerizing) (ec:2.6.1.16))	 4
+(Histidine metabolism (map00340), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Pyruvate metabolism (map00620), synthase (ec:2.3.3.14))	 2
+(Pyrimidine metabolism (map00240), dehydrogenase (NADP+) (ec:1.3.1.2))	 3
+(Tryptophan metabolism (map00380), 3,4-dioxygenase (ec:1.13.11.6))	 2
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), synthase (ec:4.2.3.4))	 4
+(Fluorobenzoate degradation (map00364), hydratase (ec:4.2.1.84))	 2
+(Tryptophan metabolism (map00380), dehydrogenase (ec:1.1.1.35))	 17
+(Limonene and pinene degradation (map00903), hydratase (ec:4.2.1.17))	 33
+(Various types of N-glycan biosynthesis (map00513), hexosaminidase (ec:3.2.1.52))	 2
+(Terpenoid backbone biosynthesis (map00900), farnesyltransferase (ec:2.5.1.58))	 1
+(Thiamine metabolism (map00730), kinase (ec:2.7.1.49))	 1
+(Pyrimidine metabolism (map00240), reductase (ec:1.8.1.9))	 5
+(N-Glycan biosynthesis (map00510), N-acetylglucosaminephosphotransferase (ec:2.7.8.15))	 3
+(Various types of N-glycan biosynthesis (map00513), 4-beta-N-acetylglucosaminyltransferase (ec:2.4.1.145))	 1
+(Nitrogen metabolism (map00910), ammonia-lyase (ec:4.3.1.1))	 2
+(Drug metabolism - other enzymes (map00983), synthase (glutamine-hydrolysing) (ec:6.3.5.2))	 6
+(Fructose and mannose metabolism (map00051), 1-phosphotransferase (ec:2.7.1.90))	 3
+(Drug metabolism - other enzymes (map00983), ec:3.5.1.6 beta-ureidopropionase (ec:3.5.1.6))	 5
+(Cysteine and methionine metabolism (map00270), O-acetyltransferase (ec:2.3.1.31))	 8
+(Fatty acid elongation (map00062), C-acyltransferase (ec:2.3.1.16))	 37
+(Pyrimidine metabolism (map00240), kinase (ec:2.7.4.6))	 4
+(Retinol metabolism (map00830), dehydrogenase (ec:1.2.1.36))	 3
+(Purine metabolism (map00230), formyltransferase (ec:2.1.2.2))	 1
+(Pentose phosphate pathway (map00030), aldolase (ec:4.1.2.14))	 3
+(Nitrogen metabolism (map00910), dehydrogenase (ec:1.2.1.2))	 41
+(Valine, leucine and isoleucine degradation (map00280), carboxylase (ec:6.4.1.3))	 27
+(Propanoate metabolism (map00640), decarboxylase (ec:4.1.1.9))	 3
+(Fatty acid elongation (map00062), dehydrogenase (ec:1.1.1.211))	 2
+(Cyanoamino acid metabolism (map00460), gentiobiase (ec:3.2.1.21))	 5
+(Butanoate metabolism (map00650), dehydrogenase (ec:1.1.1.35))	 17
+(Oxidative phosphorylation (map00190), ATPase (ec:3.6.3.10))	 2
+(Indole alkaloid biosynthesis (map00901), decarboxylase (ec:4.1.1.28))	 1
+(Betalain biosynthesis (map00965), decarboxylase (ec:4.1.1.28))	 1
+(Histidine metabolism (map00340), 4(5)-imidazolone-5(4)-propionic acid hydrolase (ec:3.5.2.7))	 2
+(Glutathione metabolism (map00480), (ATP-hydrolysing) (ec:3.5.2.9))	 12
+(Carotenoid biosynthesis (map00906), de-epoxidase (ec:1.10.99.3))	 1
+(beta-Alanine metabolism (map00410), oxidase (ec:1.4.3.21))	 1
+(Purine metabolism (map00230), (alpha-D-glucose-1,6-bisphosphate-dependent) (ec:5.4.2.2))	 7
+(Galactose metabolism (map00052), maltase (ec:3.2.1.20))	 5
+(Selenocompound metabolism (map00450), beta-lyase (ec:4.4.1.8))	 10
+(Citrate cycle (TCA cycle) (map00020), succinyltransferase (ec:2.3.1.61))	 16
+(Pentose and glucuronate interconversions (map00040), 3-epimerase (ec:5.1.3.1))	 7
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.11))	 5
+(Alanine, aspartate and glutamate metabolism (map00250), transaminase (ec:2.6.1.19))	 6
+(Fructose and mannose metabolism (map00051), reductase (ec:1.1.1.21))	 3
+(Carbon fixation in photosynthetic organisms (map00710), dehydrogenase (NADP+) (phosphorylating) (ec:1.2.1.13))	 2
+(Nitrogen metabolism (map00910), reductase (ec:1.7.99.4))	 33
+(Butanoate metabolism (map00650), epimerase (ec:5.1.2.3))	 6
+(Propanoate metabolism (map00640), ligase (ADP-forming) (ec:6.2.1.5))	 27
+(Pyruvate metabolism (map00620), acetyltransferase (ec:2.3.1.8))	 10
+(Purine metabolism (map00230), cyclase (ec:4.6.1.2))	 16
+(Nitrogen metabolism (map00910), reductase (ec:1.7.99.1))	 6
+(Butanoate metabolism (map00650), CoA-transferase (ec:2.8.3.5))	 16
+(Biosynthesis of unsaturated fatty acids (map01040), reductase (ec:1.1.1.100))	 34
+(One carbon pool by folate (map00670), synthase (ec:2.1.1.13))	 16
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), dehydratase (ec:4.2.1.10))	 5
+(Fatty acid metabolism (map00071), dehydrogenase (ec:1.1.1.35))	 17
+(Ascorbate and aldarate metabolism (map00053), reductase (ec:1.1.1.19))	 1
+(Glutathione metabolism (map00480), decarboxylase (ec:4.1.1.17))	 2
+(Alanine, aspartate and glutamate metabolism (map00250), dehydrogenase (NAD+) (ec:1.2.1.24))	 5
+(Porphyrin and chlorophyll metabolism (map00860), synthase (ec:2.5.1.61))	 3
+(Valine, leucine and isoleucine biosynthesis (map00290), ammonia-lyase (ec:4.3.1.19))	 1
+(Glycosaminoglycan biosynthesis - heparan sulfate / heparin (map00534), 4-beta-glucuronosyltransferase (ec:2.4.1.225))	 1
+(Alanine, aspartate and glutamate metabolism (map00250), synthase (ec:6.3.4.5))	 7
+(Fatty acid metabolism (map00071), epimerase (ec:5.1.2.3))	 6
+(Nitrogen metabolism (map00910), dehydrogenase (ec:1.4.1.2))	 7
+(Glycerophospholipid metabolism (map00564), cytidylyltransferase (ec:2.7.7.41))	 1
+(Purine metabolism (map00230), deaminase (ec:3.5.4.4))	 1
+(Nicotinate and nicotinamide metabolism (map00760), kinase (ec:2.7.1.23))	 1
+(Carbon fixation in photosynthetic organisms (map00710), 3-epimerase (ec:5.1.3.1))	 7
+(Purine metabolism (map00230), carboxylase (ec:4.1.1.21))	 3
+(Aminoacyl-tRNA biosynthesis (map00970), synthase (glutamine-hydrolysing) (ec:6.3.5.6))	 1
+(Porphyrin and chlorophyll metabolism (map00860), ferrochelatase (ec:4.99.1.4))	 11
+(Glyoxylate and dicarboxylate metabolism (map00630), reductase (ec:1.1.1.60))	 5
+(Sulfur metabolism (map00920), kinase (ec:2.7.1.25))	 5
+(Fatty acid metabolism (map00071), dehydrogenase (ec:1.1.1.211))	 2
+(Galactose metabolism (map00052), uridylyltransferase (ec:2.7.7.12))	 2
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.12))	 21
+(Cysteine and methionine metabolism (map00270), (cytosine-5-)-methyltransferase (ec:2.1.1.37))	 5
+(Arginine and proline metabolism (map00330), ec:3.5.3.3 creatinase (ec:3.5.3.3))	 10
+(beta-Lactam resistance (map00312), penicillinase (ec:3.5.2.6))	 3
+(Pyruvate metabolism (map00620), CoA-transferase (ec:2.8.3.1))	 8
+(Phenylalanine metabolism (map00360), transaminase (ec:2.6.1.5))	 5
+(Pyruvate metabolism (map00620), carboxylase (ec:6.4.1.2))	 45
+(Methane metabolism (map00680), dehydrogenase (ec:1.12.1.2))	 1
+(Ether lipid metabolism (map00565), synthase (ec:2.5.1.26))	 2
+(Arginine and proline metabolism (map00330), transaminase (ec:2.6.1.21))	 3
+(N-Glycan biosynthesis (map00510), 4-beta-N-acetylglucosaminyltransferase (ec:2.4.1.145))	 1
+(Toluene degradation (map00623), dehydrogenase (ec:1.1.1.35))	 17
+(Terpenoid backbone biosynthesis (map00900), synthase [(2E,6E)-farnesyl-diphosphate specific] (ec:2.5.1.31))	 3
+(Purine metabolism (map00230), phosphodiesterase (ec:3.1.4.35))	 7
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), synthase (ec:4.2.3.5))	 3
+(Glyoxylate and dicarboxylate metabolism (map00630), carboxylase (ec:6.4.1.3))	 27
+(Tyrosine metabolism (map00350), oxidase (ec:1.2.3.1))	 5
+(Pentose phosphate pathway (map00030), dehydrogenase (NADP+-dependent, decarboxylating) (ec:1.1.1.44))	 23
+(Fructose and mannose metabolism (map00051), aldolase (ec:4.1.2.17))	 2
+(Glycosaminoglycan degradation (map00531), beta-glucuronide glucuronohydrolase glucuronidase (ec:3.2.1.31))	 3
+(Starch and sucrose metabolism (map00500), sucrose 6-glucosyltransferase (ec:2.4.1.5))	 1
+(Citrate cycle (TCA cycle) (map00020), carboxykinase (ATP) (ec:4.1.1.49))	 4
+(Selenocompound metabolism (map00450), reductase (ec:1.8.1.9))	 5
+(Steroid biosynthesis (map00100), monooxygenase (ec:1.14.13.72))	 1
+(Nicotinate and nicotinamide metabolism (map00760), transhydrogenase (AB-specific) (ec:1.6.1.2))	 27
+(Biosynthesis of ansamycins (map01051), glycolaldehydetransferase (ec:2.2.1.1))	 13
+(Fatty acid elongation (map00062), hydrolase (ec:3.1.2.2))	 3
+(Phosphatidylinositol signaling system (map04070), kinase (ATP dependent) (ec:2.7.1.107))	 4
+(Butanoate metabolism (map00650), synthase (ec:2.3.3.10))	 2
+(Carbon fixation pathways in prokaryotes (map00720), lyase (ec:4.1.3.34))	 4
+(Tetracycline biosynthesis (map00253), carboxylase (ec:6.4.1.2))	 45
+(Glycerolipid metabolism (map00561), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Lipopolysaccharide biosynthesis (map00540), O-acyltransferase (ec:2.3.1.129))	 5
+(Fructose and mannose metabolism (map00051), isomerase (ec:5.3.1.5))	 1
+(Oxidative phosphorylation (map00190), reductase (ec:1.10.2.2))	 14
+(Terpenoid backbone biosynthesis (map00900), geranyl-diphosphate synthase (ec:2.5.1.1))	 4
+(Secondary bile acid biosynthesis (map00121), hydrolase (ec:3.5.1.74))	 2
+(Pyrimidine metabolism (map00240), reductase (ec:1.17.4.1))	 42
+(Fatty acid elongation (map00062), hydratase (ec:4.2.1.17))	 33
+(Phenylalanine metabolism (map00360), dehydrogenase [NAD(P)+] (ec:1.2.1.5))	 2
+(Pyruvate metabolism (map00620), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(beta-Alanine metabolism (map00410), hydrolase (ec:3.1.2.4))	 2
+(beta-Alanine metabolism (map00410), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Amino sugar and nucleotide sugar metabolism (map00520), phosphotransferase (ec:2.7.1.69))	 1
+(Phenylalanine metabolism (map00360), hydrolase (ec:3.5.1.32))	 3
+(Cysteine and methionine metabolism (map00270), dehydrogenase (NADP+) (ec:1.1.1.272))	 3
+(Amino sugar and nucleotide sugar metabolism (map00520), phosphotransferase (ec:2.7.1.63))	 1
+(Valine, leucine and isoleucine degradation (map00280), C-acyltransferase (ec:2.3.1.16))	 37
+(Cysteine and methionine metabolism (map00270), beta-synthase (ec:4.2.1.22))	 1
+(Ascorbate and aldarate metabolism (map00053), 6-dehydrogenase (ec:1.1.1.22))	 4
+(Cysteine and methionine metabolism (map00270), gamma-lyase (ec:4.4.1.11))	 1
+(Synthesis and degradation of ketone bodies (map00072), decarboxylase (ec:4.1.1.4))	 1
+(Peptidoglycan biosynthesis (map00550), ligase (ec:6.3.2.8))	 6
+(Cysteine and methionine metabolism (map00270), dehydrogenase (ec:1.1.1.3))	 7
+(Histidine metabolism (map00340), isomerase (ec:5.3.1.16))	 7
+(Arginine and proline metabolism (map00330), reductase (ec:1.5.1.2))	 2
+(Nitrogen metabolism (map00910), reductase (NADH) (ec:1.7.1.1))	 2
+(Alanine, aspartate and glutamate metabolism (map00250), lyase (ec:4.3.2.2))	 7
+(Sulfur metabolism (map00920), reductase (NADPH) (ec:1.8.1.2))	 19
+(Pyruvate metabolism (map00620), dehydrogenase (acetyl-transferring) (ec:1.2.4.1))	 33
+(Chloroalkane and chloroalkene degradation (map00625), dehalogenase (ec:3.8.1.2))	 3
+(Porphyrin and chlorophyll metabolism (map00860), reductase (ec:1.3.1.33))	 4
+(Purine metabolism (map00230), DNA polymerase (ec:2.7.7.7))	 74
+(Fatty acid biosynthesis (map00061), S-malonyltransferase (ec:2.3.1.39))	 17
+(Riboflavin metabolism (map00740), phosphatase (ec:3.1.3.2))	 3
+(Drug metabolism - other enzymes (map00983), oxidase (ec:1.17.3.2))	 8
+(Citrate cycle (TCA cycle) (map00020), acetyltransferase (ec:2.3.1.12))	 20
+(Oxidative phosphorylation (map00190), oxidase (ec:1.9.3.1))	 107
+(Folate biosynthesis (map00790), phosphatase (ec:3.1.3.1))	 1
+(Glycine, serine and threonine metabolism (map00260), 3-dehydrogenase (ec:1.1.1.103))	 2
+(Propanoate metabolism (map00640), carboxytransferase (ec:2.1.3.1))	 2
+(Inositol phosphate metabolism (map00562), 6-phytase (name based on 1L-numbering system and not 1D-numbering) (ec:3.1.3.26))	 1
+(Amino sugar and nucleotide sugar metabolism (map00520), mannose phosphomutase (ec:5.4.2.8))	 4
+(Methane metabolism (map00680), dehydrogenase (ec:1.1.1.284))	 18
+(Taurine and hypotaurine metabolism (map00430), acetyltransferase (ec:2.3.3.15))	 22
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), synthase (ec:4.2.1.20))	 19
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.14))	 9
+(Methane metabolism (map00680), hydroxymethyltransferase (ec:2.1.2.1))	 12
+(Starch and sucrose metabolism (map00500), branching enzyme (ec:2.4.1.18))	 11
+(Glycerolipid metabolism (map00561), lipase (ec:3.1.1.34))	 1
+(Riboflavin metabolism (map00740), deaminase (ec:3.5.4.26))	 2
+(Porphyrin and chlorophyll metabolism (map00860), 2,1-aminomutase (ec:5.4.3.8))	 8
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.5.8.4))	 52
+(Steroid degradation (map00984), 17)beta-hydroxysteroid dehydrogenase (ec:1.1.1.51))	 1
+(Propanoate metabolism (map00640), carboxylase (ec:6.4.1.2))	 45
+(Alanine, aspartate and glutamate metabolism (map00250), decarboxylase (ec:4.1.1.15))	 1
+(Inositol phosphate metabolism (map00562), 3-phosphatase (ec:3.1.3.67))	 3
+(Vitamin B6 metabolism (map00750), 5'-phosphate synthase (ec:1.4.3.5))	 7
+(Valine, leucine and isoleucine degradation (map00280), C-acetyltransferase (ec:2.3.1.9))	 42
+(Carbon fixation pathways in prokaryotes (map00720), carboxylase (ec:6.4.1.2))	 45
+(Propanoate metabolism (map00640), ligase (ec:6.2.1.1))	 26
+(Amino sugar and nucleotide sugar metabolism (map00520), uridylyltransferase (ec:2.7.7.9))	 7
+(Galactose metabolism (map00052), galactokinase (phosphorylating) (ec:2.7.1.6))	 1
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.1.99.1))	 9
+(Glutathione metabolism (map00480), synthase (ec:2.5.1.16))	 3
+(Methane metabolism (map00680), dehydrogenase (acceptor) (ec:1.2.99.2))	 24
+(Isoquinoline alkaloid biosynthesis (map00950), transaminase (ec:2.6.1.1))	 18
+(Purine metabolism (map00230), dehydrogenase (ec:1.17.1.4))	 23
+(Pyrimidine metabolism (map00240), kinase (ec:2.7.4.9))	 4
+(Glyoxylate and dicarboxylate metabolism (map00630), phosphatase (ec:3.1.3.18))	 3
+(Lysine degradation (map00310), dehydrogenase (succinyl-transferring) (ec:1.2.4.2))	 29
+(Methane metabolism (map00680), acetyltransferase (ec:2.3.1.8))	 10
+(Glycosphingolipid biosynthesis - ganglio series (map00604), hexosaminidase (ec:3.2.1.52))	 2
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.4))	 19
+(One carbon pool by folate (map00670), ligase (ec:6.3.4.3))	 21
+(Arginine and proline metabolism (map00330), N-acetyltransferase (ec:2.3.1.35))	 5
+(Butanoate metabolism (map00650), synthase (ec:2.2.1.6))	 24
+(Carotenoid biosynthesis (map00906), oxidase (ec:1.2.3.14))	 1
+(Glycerophospholipid metabolism (map00564), true cholinesterase (ec:3.1.1.7))	 1
+(Valine, leucine and isoleucine degradation (map00280), hydratase (ec:4.2.1.17))	 33
+(Arginine and proline metabolism (map00330), cyclodeaminase (ec:4.3.1.12))	 1
+(Starch and sucrose metabolism (map00500), synthase (UDP-forming) (ec:2.4.1.15))	 7
+(C5-Branched dibasic acid metabolism (map00660), ligase (ADP-forming) (ec:6.2.1.5))	 27
+(Pyruvate metabolism (map00620), carboxykinase (GTP) (ec:4.1.1.32))	 6
+(Galactose metabolism (map00052), uridylyltransferase (ec:2.7.7.9))	 7
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), dehydrogenase (ec:1.3.1.12))	 3
+(Lysine biosynthesis (map00300), dehydrogenase (ec:1.2.1.11))	 9
+(Fatty acid biosynthesis (map00061), carboxylase (ec:6.4.1.2))	 45
+(Tyrosine metabolism (map00350), beta-diketonase (ec:3.7.1.2))	 3
+(Propanoate metabolism (map00640), dehydratase (ec:4.2.1.79))	 2
+(Biosynthesis of unsaturated fatty acids (map01040), C-acyltransferase (ec:2.3.1.16))	 37
+(Pyruvate metabolism (map00620), acetylphosphatase (ec:3.6.1.7))	 2
+(Fatty acid metabolism (map00071), C-acetyltransferase (ec:2.3.1.9))	 42
+(Arginine and proline metabolism (map00330), synthase (ec:2.5.1.16))	 3
+(Glutathione metabolism (map00480), synthase (ec:2.5.1.22))	 1
+(D-Glutamine and D-glutamate metabolism (map00471), racemase (ec:5.1.1.10))	 1
+(Amino sugar and nucleotide sugar metabolism (map00520), 1,4-beta-xylosidase (ec:3.2.1.37))	 2
+(Carbon fixation pathways in prokaryotes (map00720), dehydrogenase (ec:1.1.1.37))	 21
+(Fructose and mannose metabolism (map00051), 4,6-dehydratase (ec:4.2.1.47))	 2
+(Peptidoglycan biosynthesis (map00550), glycosyltransferase (ec:2.4.1.129))	 11
+(Isoquinoline alkaloid biosynthesis (map00950), transaminase (ec:2.6.1.5))	 5
+(Porphyrin and chlorophyll metabolism (map00860), ligase (ec:6.1.1.17))	 16
+(Glycine, serine and threonine metabolism (map00260), ammonia-lyase (ec:4.3.1.17))	 2
+(Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate (map00532), 6-sulfotransferase (ec:2.8.2.17))	 4
+(Methane metabolism (map00680), ligase (ec:6.2.1.1))	 26
+(Glycine, serine and threonine metabolism (map00260), oxidase (ec:1.4.3.21))	 1
+(Fatty acid biosynthesis (map00061), carboxylase (ec:6.3.4.14))	 44
+(One carbon pool by folate (map00670), formyltransferase (ec:2.1.2.3))	 6
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.7))	 16
+(Carbon fixation pathways in prokaryotes (map00720), dehydratase (ec:4.2.1.55))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), C-acetyltransferase (ec:2.3.1.9))	 42
+(Other glycan degradation (map00511), hexosaminidase (ec:3.2.1.52))	 2
+(Phenylpropanoid biosynthesis (map00940), O-methyltransferase (ec:2.1.1.146))	 5
+(Drug metabolism - cytochrome P450 (map00982), dehydrogenase (ec:1.1.1.1))	 19
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), transaminase (ec:2.6.1.5))	 5
+(Arginine and proline metabolism (map00330), kinase (ec:2.7.3.3))	 2
+(Streptomycin biosynthesis (map00521), reductase (ec:1.1.1.133))	 1
+(Drug metabolism - other enzymes (map00983), phosphoribosyltransferase (ec:2.4.2.10))	 3
+(Thiamine metabolism (map00730), oxidase (ec:1.4.3.19))	 1
+(Synthesis and degradation of ketone bodies (map00072), synthase (ec:2.3.3.10))	 2
+(Terpenoid backbone biosynthesis (map00900), diphosphate synthase [geranylgeranyl-diphosphate specific] (ec:2.5.1.85))	 1
+(Glycerolipid metabolism (map00561), kinase (ec:2.7.1.30))	 18
+(beta-Alanine metabolism (map00410), hydantoinase (ec:3.5.2.2))	 6
+(Purine metabolism (map00230), kinase (ec:2.7.1.20))	 2
+(Streptomycin biosynthesis (map00521), 2-dehydrogenase (ec:1.1.1.18))	 2
+(Arginine and proline metabolism (map00330), synthase (ammonia) (ec:6.3.4.16))	 2
+(Pentose and glucuronate interconversions (map00040), uridylyltransferase (ec:2.7.7.9))	 7
+(Alanine, aspartate and glutamate metabolism (map00250), ligase (ec:6.3.1.2))	 28
+(Nitrogen metabolism (map00910), synthase (ammonia) (ec:6.3.4.16))	 2
+(Linoleic acid metabolism (map00591), 15-lipoxygenase (ec:1.13.11.33))	 1
+(Drug metabolism - other enzymes (map00983), beta-glucuronide glucuronohydrolase glucuronidase (ec:3.2.1.31))	 3
+(Carbon fixation pathways in prokaryotes (map00720), hydratase (ec:4.2.1.2))	 18
+(Pantothenate and CoA biosynthesis (map00770), decarboxylase (ec:4.1.1.36))	 3
+(Chlorocyclohexane and chlorobenzene degradation (map00361), maleylacetate enol-lactonase (ec:3.1.1.45))	 7
+(Nitrogen metabolism (map00910), S-aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming) (ec:2.1.2.10))	 101
+(Starch and sucrose metabolism (map00500), glucokinase (phosphorylating) (ec:2.7.1.2))	 2
+(Tropane, piperidine and pyridine alkaloid biosynthesis (map00960), transaminase (ec:2.6.1.5))	 5
+(Purine metabolism (map00230), phosphodiesterase (ec:3.1.4.17))	 8
+(Glucosinolate biosynthesis (map00966), transaminase (ec:2.6.1.42))	 23
+(Glycolysis / Gluconeogenesis (map00010), ligase (ec:6.2.1.1))	 26
+(Vitamin B6 metabolism (map00750), kinase (ec:2.7.1.35))	 1
+(Purine metabolism (map00230), phosphoribosyltransferase (ec:2.4.2.22))	 1
+(Alanine, aspartate and glutamate metabolism (map00250), transaminase (ec:2.6.1.2))	 4
+(One carbon pool by folate (map00670), S-aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming) (ec:2.1.2.10))	 101
+(Amino sugar and nucleotide sugar metabolism (map00520), 4,6-dehydratase (ec:4.2.1.47))	 2
+(Aminobenzoate degradation (map00627), nitrophenyl phosphatase (ec:3.1.3.41))	 2
+(Carbon fixation in photosynthetic organisms (map00710), transaminase (ec:2.6.1.2))	 4
+(Carbon fixation pathways in prokaryotes (map00720), ligase (ADP-forming) (ec:6.2.1.5))	 27
+(Carbon fixation pathways in prokaryotes (map00720), dehydrogenase (ec:1.1.1.35))	 17
+(Caprolactam degradation (map00930), dehydrogenase (ec:1.1.1.35))	 17
+(Tryptophan metabolism (map00380), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Folate biosynthesis (map00790), reductase (ec:1.5.1.3))	 4
+(Purine metabolism (map00230), RNA polymerase (ec:2.7.7.6))	 154
+(Glyoxylate and dicarboxylate metabolism (map00630), lyase (ec:4.1.3.1))	 2
+(Amino sugar and nucleotide sugar metabolism (map00520), isomerase (ec:5.3.1.8))	 5
+(Arginine and proline metabolism (map00330), 5-kinase (ec:2.7.2.11))	 13
+(Cysteine and methionine metabolism (map00270), synthase (ec:2.5.1.16))	 3
+(Glyoxylate and dicarboxylate metabolism (map00630), dehydrogenase (ec:1.2.1.2))	 41
+(Histidine metabolism (map00340), cyclohydrolase (ec:3.5.4.19))	 2
+(Pyruvate metabolism (map00620), lyase (ec:4.4.1.5))	 5
+(Nicotinate and nicotinamide metabolism (map00760), synthase (glutamine-hydrolysing) (ec:6.3.5.1))	 3
+(Selenocompound metabolism (map00450), gamma-lyase (ec:4.4.1.1))	 2
+(Pyruvate metabolism (map00620), acetyltransferase (ec:2.3.1.12))	 20
+(Cysteine and methionine metabolism (map00270), transaminase (ec:2.6.1.5))	 5
+(Terpenoid backbone biosynthesis (map00900), decarboxylase (ec:4.1.1.33))	 10
+(Pentose and glucuronate interconversions (map00040), dehydratase (ec:4.2.1.7))	 11
+(Pantothenate and CoA biosynthesis (map00770), hydrolase (ec:3.5.1.92))	 1
+(Ascorbate and aldarate metabolism (map00053), dehydrogenase (ec:1.3.2.3))	 1
+(Porphyrin and chlorophyll metabolism (map00860), synthase (ec:4.2.1.24))	 8
+(Peptidoglycan biosynthesis (map00550), 1-carboxyvinyltransferase (ec:2.5.1.7))	 8
+(Pyrimidine metabolism (map00240), deaminase (ec:3.5.4.12))	 1
+(Nicotinate and nicotinamide metabolism (map00760), uridine 5'-nucleotidase (ec:3.1.3.5))	 16
+(Valine, leucine and isoleucine degradation (map00280), mutase (ec:5.4.99.2))	 26
+(One carbon pool by folate (map00670), formyltransferase (ec:2.1.2.9))	 2
+(Tyrosine metabolism (map00350), oxidase (ec:1.4.3.21))	 1
+(Glycine, serine and threonine metabolism (map00260), S-methyltransferase (ec:2.1.1.5))	 2
+(Starch and sucrose metabolism (map00500), disproportionating enzyme (ec:2.4.1.25))	 1
+(Carbon fixation in photosynthetic organisms (map00710), isomerase (ec:5.3.1.1))	 5
+(Methane metabolism (map00680), dehydrogenase (ec:1.2.1.46))	 3
+(Arginine and proline metabolism (map00330), aldolase (ec:4.1.3.16))	 3
+(Lysine degradation (map00310), C-acetyltransferase (ec:2.3.1.9))	 42
+(Starch and sucrose metabolism (map00500), 6-dehydrogenase (ec:1.1.1.22))	 4
+(Fructose and mannose metabolism (map00051), hexokinase type IV glucokinase (ec:2.7.1.1))	 3
+(Phosphatidylinositol signaling system (map04070), inositol-1,3-bisphosphate 3-phosphatase (ec:3.1.3.64))	 1
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.20))	 23
+(Cysteine and methionine metabolism (map00270), dehydrogenase (ec:1.2.1.11))	 9
+(alpha-Linolenic acid metabolism (map00592), hydratase (ec:4.2.1.17))	 33
+(Purine metabolism (map00230), lyase (ec:4.3.2.3))	 1
+(Riboflavin metabolism (map00740), monophenol monooxygenase (ec:1.14.18.1))	 1
+(Lysine biosynthesis (map00300), kinase (ec:2.7.2.4))	 8
+(Butanoate metabolism (map00650), reductase (ec:1.1.1.36))	 8
+(Pentose phosphate pathway (map00030), 3-epimerase (ec:5.1.3.1))	 7
+(Starch and sucrose metabolism (map00500), 1,4-alpha-glucosidase (ec:3.2.1.3))	 1
+(Propanoate metabolism (map00640), decarboxylase (ec:4.1.1.4))	 1
+(Amino sugar and nucleotide sugar metabolism (map00520), 5'-epimerase (ec:5.1.3.12))	 1
+(Starch and sucrose metabolism (map00500), phosphotransferase (ec:2.7.1.69))	 1
+(Pantothenate and CoA biosynthesis (map00770), hydantoinase (ec:3.5.2.2))	 6
+(Glycolysis / Gluconeogenesis (map00010), phosphotransferase (ec:2.7.1.63))	 1
+(Penicillin and cephalosporin biosynthesis (map00311), epimerase (ec:5.1.1.17))	 7
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (ec:1.8.1.4))	 26
+(Glycolysis / Gluconeogenesis (map00010), dehydrogenase (acetyl-transferring) (ec:1.2.4.1))	 33
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (ubiquinone) (ec:1.3.5.1))	 28
+(Lysine biosynthesis (map00300), ligase (ec:6.3.2.13))	 1
+(Starch and sucrose metabolism (map00500), uridylyltransferase (ec:2.7.7.9))	 7
+(Valine, leucine and isoleucine degradation (map00280), dehydrogenase (ec:1.8.1.4))	 26
+(Nitrogen metabolism (map00910), reductase (ec:1.7.2.4))	 9
+(Tyrosine metabolism (map00350), dehydrogenase [NAD(P)+] (ec:1.2.1.16))	 7
+(Nicotinate and nicotinamide metabolism (map00760), lyase (ec:4.1.3.32))	 1
+(Glycine, serine and threonine metabolism (map00260), C-acetyltransferase (ec:2.3.1.29))	 3
+(D-Alanine metabolism (map00473), transaminase (ec:2.6.1.21))	 3
+(N-Glycan biosynthesis (map00510), glucosidase (ec:3.2.1.106))	 1
+(Cysteine and methionine metabolism (map00270), racemase (ec:5.1.1.10))	 1
+(Nitrogen metabolism (map00910), reductase (H+-translocating) (ec:1.6.5.3))	 134
+(Cysteine and methionine metabolism (map00270), gamma-synthase (ec:2.5.1.48))	 2
+(N-Glycan biosynthesis (map00510), 1,2-alpha-mannosidase (ec:3.2.1.113))	 6
+(Fatty acid metabolism (map00071), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Thiamine metabolism (map00730), synthase (ec:2.2.1.7))	 12
+(Carbon fixation pathways in prokaryotes (map00720), reductase [NAD(P)H] (ec:1.5.1.20))	 3
+(Glycine, serine and threonine metabolism (map00260), kinase (ec:2.7.1.39))	 3
+(Valine, leucine and isoleucine degradation (map00280), dehydrogenase (ec:1.1.1.31))	 8
+(Glyoxylate and dicarboxylate metabolism (map00630), reductase (NADP+) (ec:1.1.1.79))	 1
+(Glutathione metabolism (map00480), reductase (ec:1.8.1.7))	 11
+(Arginine and proline metabolism (map00330), dehydrogenase (ec:1.2.1.41))	 6
+(Glycosaminoglycan degradation (map00531), chondroitinsulfatase (ec:3.1.6.14))	 1
+(Oxidative phosphorylation (map00190), ATPase (ec:3.6.3.6))	 29
+(Carbon fixation in photosynthetic organisms (map00710), phosphopentokinase (ec:2.7.1.19))	 1
+(Selenocompound metabolism (map00450), adenylyltransferase (ec:2.7.7.4))	 11
+(Propanoate metabolism (map00640), carboxylase (ec:6.4.1.3))	 27
+(Pentose phosphate pathway (map00030), glycolaldehydetransferase (ec:2.2.1.1))	 13
+(Alanine, aspartate and glutamate metabolism (map00250), synthase (ec:6.3.4.4))	 7
+(Chloroalkane and chloroalkene degradation (map00625), dehydrogenase (ec:1.2.1.46))	 3
+(Pantothenate and CoA biosynthesis (map00770), ligase (ec:6.3.2.5))	 3
+(Alanine, aspartate and glutamate metabolism (map00250), dehydrogenase (ec:1.5.1.12))	 2
+(Propanoate metabolism (map00640), transaminase (ec:2.6.1.19))	 6
+(Lysine degradation (map00310), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Cutin, suberine and wax biosynthesis (map00073), O-acyltransferase (ec:2.3.1.20))	 1
+(Valine, leucine and isoleucine biosynthesis (map00290), synthase (ec:2.2.1.6))	 24
+(Butanoate metabolism (map00650), decarboxylase (ec:4.1.1.70))	 3
+(Purine metabolism (map00230), oxidase (ec:1.17.3.2))	 8
+(Valine, leucine and isoleucine degradation (map00280), carboxylase (ec:6.4.1.4))	 10
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.2.1.11))	 9
+(Steroid hormone biosynthesis (map00140), dehydrogenase (ec:1.1.1.145))	 2
+(Folate biosynthesis (map00790), synthase (ec:4.2.3.12))	 2
+(Drug metabolism - other enzymes (map00983), hydantoinase (ec:3.5.2.2))	 6
+(Arginine and proline metabolism (map00330), kinase (ec:2.7.2.8))	 4
+(Isoquinoline alkaloid biosynthesis (map00950), oxidase (ec:1.4.3.21))	 1
+(Ubiquinone and other terpenoid-quinone biosynthesis (map00130), dioxygenase (ec:1.13.11.27))	 4
+(Phosphatidylinositol signaling system (map04070), 5-kinase (ec:2.7.1.68))	 4
+(Methane metabolism (map00680), phosphatase (ec:3.1.3.3))	 4
+(Glyoxylate and dicarboxylate metabolism (map00630), reductase (ec:1.1.1.81))	 1
+(Arginine and proline metabolism (map00330), synthase (ec:2.5.1.22))	 1
+(Arginine and proline metabolism (map00330), dehydropeptidase II (ec:3.5.1.14))	 3
+(Purine metabolism (map00230), kinase (ec:2.7.4.8))	 9
+(Methane metabolism (map00680), lyase (ec:4.1.3.24))	 1
+(Pentose phosphate pathway (map00030), dehydratase (ec:4.2.1.12))	 10
+(Pantothenate and CoA biosynthesis (map00770), ec:3.5.1.6 beta-ureidopropionase (ec:3.5.1.6))	 5
+(Methane metabolism (map00680), dehydrogenase (ec:1.5.8.2))	 1
+(Cysteine and methionine metabolism (map00270), ammonia-lyase (ec:4.3.1.17))	 2
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.16))	 10
+(Histidine metabolism (map00340), dehydrogenase [NAD(P)+] (ec:1.2.1.5))	 2
+(Inositol phosphate metabolism (map00562), 3-kinase (ec:2.7.1.137))	 1
+(Pyrimidine metabolism (map00240), phosphorylase (ec:2.4.2.1))	 2
+(Amino sugar and nucleotide sugar metabolism (map00520), uridylyltransferase (ec:2.7.7.44))	 2
+(Starch and sucrose metabolism (map00500), 1,4-beta-xylosidase (ec:3.2.1.37))	 2
+(Peptidoglycan biosynthesis (map00550), D-Ala-D-Ala carboxypeptidase (ec:3.4.16.4))	 10
+(Inositol phosphate metabolism (map00562), 2-dehydrogenase (ec:1.1.1.18))	 2
+(Linoleic acid metabolism (map00591), A2 (ec:3.1.1.4))	 3
+(Pentose phosphate pathway (map00030), diphosphokinase (ec:2.7.6.1))	 5
+(Oxidative phosphorylation (map00190), dehydrogenase (quinone) (ec:1.6.99.5))	 27
+(Citrate cycle (TCA cycle) (map00020), (pro-3S)-lyase (ec:4.1.3.6))	 10
+(Pyrimidine metabolism (map00240), phosphorylase (ec:2.4.2.2))	 2
+(Benzoate degradation (map00362), CoA-transferase (ec:2.8.3.6))	 7
+(Fluorobenzoate degradation (map00364), maleylacetate enol-lactonase (ec:3.1.1.45))	 7
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.6))	 12
+(One carbon pool by folate (map00670), formyltransferase (ec:2.1.2.2))	 1
+(Pyrimidine metabolism (map00240), nucleotidyltransferase (ec:2.7.7.8))	 14
+(Lipopolysaccharide biosynthesis (map00540), synthase (ec:2.5.1.55))	 4
+(Lysine degradation (map00310), succinyltransferase (ec:2.3.1.61))	 16
+(Arginine and proline metabolism (map00330), transaminase (ec:2.6.1.1))	 18
+(Nitrogen metabolism (map00910), synthase (ferredoxin) (ec:1.4.7.1))	 24
+(Fructose and mannose metabolism (map00051), 2-dehydrogenase (ec:1.1.1.140))	 1
+(beta-Alanine metabolism (map00410), dehydrogenase [NAD(P)+] (ec:1.2.1.5))	 2
+(Sulfur metabolism (map00920), synthase (ec:2.5.1.47))	 31
+(Arginine and proline metabolism (map00330), dehydrogenase (ec:1.4.1.2))	 7
+(Cysteine and methionine metabolism (map00270), aminocarboxypropyltransferase (ec:2.5.1.49))	 20
+(Porphyrin and chlorophyll metabolism (map00860), synthase (ec:2.3.1.37))	 14
+(Valine, leucine and isoleucine biosynthesis (map00290), dehydratase (ec:4.2.1.33))	 20
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.1.1.3))	 7
+(Galactose metabolism (map00052), phosphohexokinase (ec:2.7.1.11))	 6
+(Citrate cycle (TCA cycle) (map00020), citrate synthase (ec:2.3.3.8))	 16
+(Inositol phosphate metabolism (map00562), 3-kinase (ec:2.7.1.154))	 1
+(Tyrosine metabolism (map00350), dehydrogenase (ec:1.1.1.1))	 19
+(Fructose and mannose metabolism (map00051), isomerase (ec:5.3.1.1))	 5
+(Pyrimidine metabolism (map00240), diphosphatase (ec:3.6.1.23))	 1
+(Sphingolipid metabolism (map00600), acylsphingosine deacylase (ec:3.5.1.23))	 4
+(Folate biosynthesis (map00790), lyase (ec:4.1.3.38))	 1
+(Carbon fixation pathways in prokaryotes (map00720), hydratase (ec:4.2.1.3))	 23
+(Naphthalene degradation (map00626), dehydrogenase (ec:1.1.1.1))	 19
+(Steroid hormone biosynthesis (map00140), 17-dehydrogenase (ec:1.1.1.62))	 1
+(Porphyrin and chlorophyll metabolism (map00860), chelatase (ec:6.6.1.1))	 8
+(Pyruvate metabolism (map00620), ligase (ec:6.2.1.1))	 26
+(Carbon fixation in photosynthetic organisms (map00710), carboxykinase (ATP) (ec:4.1.1.49))	 4
+(T cell receptor signaling pathway (map04660), phosphatase (ec:3.1.3.16))	 82
+(Sulfur metabolism (map00920), reductase (thioredoxin) (ec:1.8.4.8))	 1
+(Glycolysis / Gluconeogenesis (map00010), phosphotransferase (ec:2.7.1.69))	 1
+(Aminobenzoate degradation (map00627), hydratase (ec:4.2.1.17))	 33
+(Amino sugar and nucleotide sugar metabolism (map00520), N-acetyltransferase (ec:2.3.1.157))	 4
+(Other glycan degradation (map00511), lactase (ambiguous) (ec:3.2.1.23))	 8
+(Carbon fixation in photosynthetic organisms (map00710), hexose diphosphatase (ec:3.1.3.11))	 15
+(Tryptophan metabolism (map00380), oxidase (ec:1.2.3.1))	 5
+(Oxidative phosphorylation (map00190), dehydrogenase (ec:1.6.99.3))	 4
+(Starch and sucrose metabolism (map00500), 1,4-beta-cellobiosidase (non-reducing end) (ec:3.2.1.91))	 1
+(Novobiocin biosynthesis (map00401), transaminase (ec:2.6.1.9))	 5
+(Drug metabolism - cytochrome P450 (map00982), monooxygenase (ec:1.14.13.8))	 10
+(Amino sugar and nucleotide sugar metabolism (map00520), hexosaminidase (ec:3.2.1.52))	 2
+(Peptidoglycan biosynthesis (map00550), ligase (ec:6.3.2.4))	 6
+(Purine metabolism (map00230), nucleotidyltransferase (ec:2.7.7.8))	 14
+(Fatty acid biosynthesis (map00061), synthase III (ec:2.3.1.180))	 9
+(N-Glycan biosynthesis (map00510), 2-beta-N-acetylglucosaminyltransferase (ec:2.4.1.101))	 1
+(Arginine and proline metabolism (map00330), creatinine hydrolase (ec:3.5.2.10))	 2
+(Purine metabolism (map00230), kinase (ec:2.7.1.25))	 5
+(Steroid hormone biosynthesis (map00140), 17)beta-hydroxysteroid dehydrogenase (ec:1.1.1.51))	 1
+(Aminobenzoate degradation (map00627), acetylphosphatase (ec:3.6.1.7))	 2
+(Dioxin degradation (map00621), dehydrogenase (acetylating) (ec:1.2.1.10))	 4
+(Citrate cycle (TCA cycle) (map00020), synthase (ec:1.2.7.1))	 1
+(Sulfur metabolism (map00920), beta-lyase (ec:4.4.1.8))	 10
+(Amino sugar and nucleotide sugar metabolism (map00520), mutase (ec:5.4.2.10))	 11
+(Purine metabolism (map00230), synthase (ec:6.3.5.3))	 8
+(Carbon fixation in photosynthetic organisms (map00710), carboxylase (ec:4.1.1.39))	 13
+(Phosphatidylinositol signaling system (map04070), 4-kinase (ec:2.7.1.67))	 1
+(Methane metabolism (map00680), dehydrogenase (ec:1.1.1.37))	 21
+(Pyruvate metabolism (map00620), dehydrogenase (oxaloacetate-decarboxylating) (ec:1.1.1.38))	 2
+(Arginine and proline metabolism (map00330), dehydrogenase (ec:1.5.1.12))	 2
+(Butanoate metabolism (map00650), ligase (ec:6.2.1.16))	 1
+(Purine metabolism (map00230), phosphatase (ec:3.6.1.15))	 443
+(Benzoate degradation (map00362), hydratase (ec:4.2.1.17))	 33
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.19))	 14
+(Nitrogen metabolism (map00910), synthase (glutamine-hydrolysing) (ec:6.3.5.4))	 3
+(Cysteine and methionine metabolism (map00270), S-methyltransferase (ec:2.1.1.5))	 2
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (NADP+) (ec:1.1.1.42))	 23
+(Glycine, serine and threonine metabolism (map00260), beta-synthase (ec:4.2.1.22))	 1
+(Nitrogen metabolism (map00910), reductase (ec:1.7.7.1))	 5
+(Flavone and flavonol biosynthesis (map00944), beta-glucuronide glucuronohydrolase glucuronidase (ec:3.2.1.31))	 3
+(Lysine biosynthesis (map00300), dehydrogenase (ec:1.2.1.31))	 2
+(Starch and sucrose metabolism (map00500), beta-glucuronide glucuronohydrolase glucuronidase (ec:3.2.1.31))	 3
+(Valine, leucine and isoleucine degradation (map00280), lyase (ec:4.1.3.4))	 2
+(Starch and sucrose metabolism (map00500), muscle phosphorylase a and b (ec:2.4.1.1))	 3
+(Polycyclic aromatic hydrocarbon degradation (map00624), 3,4-dioxygenase (ec:1.13.11.3))	 1
+(Tyrosine metabolism (map00350), dioxygenase (ec:1.13.11.27))	 4
+(Aminobenzoate degradation (map00627), phosphatase (ec:3.1.3.2))	 3
+(Various types of N-glycan biosynthesis (map00513), 1,2-alpha-mannosidase (ec:3.2.1.113))	 6
+(Purine metabolism (map00230), phosphodeoxyribomutase (ec:5.4.2.7))	 3
+(Pentose phosphate pathway (map00030), dehydrogenase (ec:1.1.1.49))	 10
+(Drug metabolism - cytochrome P450 (map00982), dehydrogenase [NAD(P)+] (ec:1.2.1.5))	 2
+(One carbon pool by folate (map00670), reductase [NAD(P)H] (ec:1.5.1.20))	 3
+(Nitrogen metabolism (map00910), oxide reductase (cytochrome c) (ec:1.7.2.5))	 15
+(Sulfur metabolism (map00920), oxidase (ec:1.8.3.1))	 7
+(Benzoate degradation (map00362), ligase (ec:6.2.1.25))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), mutase (ec:5.4.99.2))	 26
+(beta-Alanine metabolism (map00410), ec:3.5.1.6 beta-ureidopropionase (ec:3.5.1.6))	 5
+(Arginine and proline metabolism (map00330), reductase (ec:1.2.1.38))	 1
+(Lipoic acid metabolism (map00785), transferase (ec:2.3.1.181))	 2
+(Purine metabolism (map00230), urate hydroxylase (ec:1.7.3.3))	 3
+(Pyrimidine metabolism (map00240), kinase (ec:2.7.4.22))	 5
+(Benzoate degradation (map00362), dehydrogenase (acetylating) (ec:1.2.1.10))	 4
+(Amino sugar and nucleotide sugar metabolism (map00520), diphosphorylase (ec:2.7.7.23))	 5
+(Arginine and proline metabolism (map00330), ligase (ec:6.3.1.2))	 28
+(Pyruvate metabolism (map00620), dehydrogenase (cytochrome) (ec:1.1.2.4))	 14
+(Metabolism of xenobiotics by cytochrome P450 (map00980), dehydrogenase (ec:1.1.1.1))	 19
+(Lysine degradation (map00310), N-methyltransferase (ec:2.1.1.43))	 6
+(Nicotinate and nicotinamide metabolism (map00760), transhydrogenase (B-specific) (ec:1.6.1.1))	 8
+(Selenocompound metabolism (map00450), water dikinase (ec:2.7.9.3))	 1
+(Pyrimidine metabolism (map00240), deaminase (ec:3.5.4.13))	 5
+(Polycyclic aromatic hydrocarbon degradation (map00624), 4,5-dioxygenase (ec:1.13.11.8))	 1
+(mTOR signaling pathway (map04150), protein kinase (ec:2.7.11.11))	 3
+(Pyrimidine metabolism (map00240), dehydrogenase (quinone) (ec:1.3.5.2))	 1
+(Phosphonate and phosphinate metabolism (map00440), mutase (ec:5.4.2.9))	 1
+(Drug metabolism - other enzymes (map00983), phosphoribosyltransferase (ec:2.4.2.8))	 2
+(Glyoxylate and dicarboxylate metabolism (map00630), dehydrogenase (ec:1.1.1.29))	 2
+(Glycerolipid metabolism (map00561), dehydrogenase (ec:1.1.1.202))	 1
+(Glutathione metabolism (map00480), dehydrogenase (NADP+) (ec:1.1.1.42))	 23
+(Primary bile acid biosynthesis (map00120), racemase (ec:5.1.99.4))	 2
+(Drug metabolism - other enzymes (map00983), dehydrogenase (NADP+) (ec:1.3.1.2))	 3
+(Phenylalanine metabolism (map00360), acylamidase (ec:3.5.1.4))	 4
+(Sphingolipid metabolism (map00600), cerebroside galactosidase (ec:3.2.1.46))	 2
+(Inositol phosphate metabolism (map00562), 3-kinase (ec:2.7.1.127))	 4
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.22))	 4
+(Tryptophan metabolism (map00380), hydratase (ec:4.2.1.84))	 2
+(Purine metabolism (map00230), kinase (ec:2.7.1.40))	 16
+(Nitrogen metabolism (map00910), synthase (NADH) (ec:1.4.1.14))	 15
+(Other types of O-glycan biosynthesis (map00514), mannosyltransferase (ec:2.4.1.109))	 1
+(Methane metabolism (map00680), monooxygenase (ec:1.14.13.8))	 10
+(Geraniol degradation (map00281), hydratase (ec:4.2.1.17))	 33
+(Chloroalkane and chloroalkene degradation (map00625), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Glycosphingolipid biosynthesis - globo series (map00603), hexosaminidase (ec:3.2.1.52))	 2
+(Carbon fixation in photosynthetic organisms (map00710), kinase (ec:2.7.2.3))	 8
+(Valine, leucine and isoleucine biosynthesis (map00290), synthase (ec:2.3.3.13))	 21
+(Pyrimidine metabolism (map00240), kinase (ec:2.7.1.48))	 3
+(Methane metabolism (map00680), hydrolase (ec:3.1.2.12))	 6
+(Propanoate metabolism (map00640), synthase (ec:1.2.7.1))	 1
+(Fructose and mannose metabolism (map00051), phosphofructokinase 2 (ec:2.7.1.105))	 3
+(Glutathione metabolism (map00480), ligase (ec:6.3.2.2))	 9
+(Fructose and mannose metabolism (map00051), 2-dehydrogenase (ec:1.1.1.14))	 2
+(Tyrosine metabolism (map00350), O-methyltransferase (ec:2.1.1.6))	 6
+(Nitrotoluene degradation (map00633), synthase (ec:1.2.7.1))	 1
+(Carbon fixation pathways in prokaryotes (map00720), dehydrogenase (ec:1.3.99.1))	 28
+(Glycerophospholipid metabolism (map00564), phosphodiesterase (ec:3.1.4.2))	 2
+(Zeatin biosynthesis (map00908), dimethylallyltransferase (ec:2.5.1.75))	 1
+(Lipopolysaccharide biosynthesis (map00540), synthase (ec:2.4.1.182))	 1
+(Glycolysis / Gluconeogenesis (map00010), hexokinase type IV glucokinase (ec:2.7.1.1))	 3
+(Biosynthesis of unsaturated fatty acids (map01040), dehydrogenase (ec:1.1.1.211))	 2
+(Benzoate degradation (map00362), 3,4-dioxygenase (ec:1.13.11.3))	 1
+(Alanine, aspartate and glutamate metabolism (map00250), synthase (NADPH) (ec:1.4.1.13))	 39
+(Nicotinate and nicotinamide metabolism (map00760), synthase (ec:6.3.1.5))	 2
+(Tyrosine metabolism (map00350), transaminase (ec:2.6.1.5))	 5
+(Porphyrin and chlorophyll metabolism (map00860), dehydrogenase (ec:1.3.99.22))	 2
+(Steroid biosynthesis (map00100), synthase (ec:5.4.99.7))	 4
+(Fatty acid biosynthesis (map00061), synthase (ec:2.3.1.85))	 6
+(Cysteine and methionine metabolism (map00270), phosphorylase (ec:2.4.2.28))	 1
+(Carbon fixation pathways in prokaryotes (map00720), carboxylase (ec:4.1.1.31))	 2
+(Pyrimidine metabolism (map00240), diphosphatase (ec:3.6.1.19))	 7
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.3))	 12
+(Glycolysis / Gluconeogenesis (map00010), dehydrogenase (ec:1.1.1.1))	 19
+(Amino sugar and nucleotide sugar metabolism (map00520), (alpha-D-glucose-1,6-bisphosphate-dependent) (ec:5.4.2.2))	 7
+(Fatty acid metabolism (map00071), hydratase (ec:4.2.1.17))	 33
+(Glycosphingolipid biosynthesis - ganglio series (map00604), lactase (ambiguous) (ec:3.2.1.23))	 8
+(Fructose and mannose metabolism (map00051), mannose phosphomutase (ec:5.4.2.8))	 4
+(Steroid degradation (map00984), dehydrogenase (ec:1.1.1.145))	 2
+(Riboflavin metabolism (map00740), synthase (ec:2.5.1.9))	 4
+(Galactose metabolism (map00052), glucokinase (phosphorylating) (ec:2.7.1.2))	 2
+(Pentose phosphate pathway (map00030), phosphotransferase (ec:2.7.1.69))	 1
+(Sulfur metabolism (map00920), gamma-synthase (ec:2.5.1.48))	 2
+(Porphyrin and chlorophyll metabolism (map00860), decarboxylase (ec:4.1.1.37))	 6
+(Phenylalanine metabolism (map00360), transaminase (ec:2.6.1.21))	 3
+(Methane metabolism (map00680), hexose diphosphatase (ec:3.1.3.11))	 15
+(Fatty acid biosynthesis (map00061), reductase (NADH) (ec:1.3.1.9))	 14
+(Glyoxylate and dicarboxylate metabolism (map00630), dehydratase (ec:4.2.1.55))	 1
+(Streptomycin biosynthesis (map00521), (alpha-D-glucose-1,6-bisphosphate-dependent) (ec:5.4.2.2))	 7
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), synthase (ec:4.1.1.48))	 3
+(Phenylalanine metabolism (map00360), 4-monooxygenase (ec:1.14.16.1))	 1
+(C5-Branched dibasic acid metabolism (map00660), lyase (ec:4.1.3.24))	 1
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.9))	 17
+(Pyrimidine metabolism (map00240), synthase (glutamine-hydrolysing) (ec:6.3.5.5))	 19
+(Pyruvate metabolism (map00620), dehydrogenase (ec:1.1.1.37))	 21
+(Tryptophan metabolism (map00380), hydratase (ec:4.2.1.17))	 33
+(Cysteine and methionine metabolism (map00270), S-adenosylhomocysteine synthase (ec:3.3.1.1))	 16
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.1))	 11
+(Nicotinate and nicotinamide metabolism (map00760), oxidase (ec:1.2.3.1))	 5
+(Arginine and proline metabolism (map00330), N-acetyltransferase (ec:2.3.1.1))	 5
+(Carbon fixation pathways in prokaryotes (map00720), acetyltransferase (ec:2.3.1.8))	 10
+(Betalain biosynthesis (map00965), monophenol monooxygenase (ec:1.14.18.1))	 1
+(Pyruvate metabolism (map00620), carboxylase (ec:4.1.1.31))	 2
+(Inositol phosphate metabolism (map00562), 5-kinase (ec:2.7.1.68))	 4
+(Pentose and glucuronate interconversions (map00040), 2-dehydrogenase (ec:1.1.1.13))	 8
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.1.1.29))	 2
+(Purine metabolism (map00230), kinase (ec:2.7.4.3))	 12
+(Pentose and glucuronate interconversions (map00040), reductase (ec:1.1.1.9))	 1
+(Toluene degradation (map00623), maleylacetate enol-lactonase (ec:3.1.1.45))	 7
+(Glycolysis / Gluconeogenesis (map00010), kinase (ec:2.7.1.40))	 16
+(Fatty acid metabolism (map00071), 1-monooxygenase (ec:1.14.15.3))	 1
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), dehydrogenase (NADP+) (ec:1.3.1.13))	 4
+(Propanoate metabolism (map00640), C-acetyltransferase (ec:2.3.1.9))	 42
+(Terpenoid backbone biosynthesis (map00900), synthase (ec:2.3.3.10))	 2
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.10))	 11
+(Metabolism of xenobiotics by cytochrome P450 (map00980), transferase (ec:2.5.1.18))	 8
+(Butirosin and neomycin biosynthesis (map00524), hexokinase type IV glucokinase (ec:2.7.1.1))	 3
+(Purine metabolism (map00230), adenylyltransferase (ec:2.7.7.4))	 11
+(Pentose and glucuronate interconversions (map00040), isomerase (ec:5.3.1.5))	 1
+(Valine, leucine and isoleucine biosynthesis (map00290), transaminase (ec:2.6.1.42))	 23
+(One carbon pool by folate (map00670), cyclodeaminase (ec:4.3.1.4))	 1
+(Sphingolipid metabolism (map00600), lactase (ambiguous) (ec:3.2.1.23))	 8
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.17))	 16
+(Glutathione metabolism (map00480), reductase (ec:1.17.4.1))	 42
+(Caffeine metabolism (map00232), urate hydroxylase (ec:1.7.3.3))	 3
+(Biotin metabolism (map00780), synthase I (ec:2.3.1.41))	 20
+(Glycolysis / Gluconeogenesis (map00010), synthase (ec:1.2.7.1))	 1
+(Synthesis and degradation of ketone bodies (map00072), lyase (ec:4.1.3.4))	 2
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), transaminase (ec:2.6.1.1))	 18
+(Fluorobenzoate degradation (map00364), cycloisomerase (ec:5.5.1.1))	 1
+(Starch and sucrose metabolism (map00500), endo-1,3-beta-D-glucosidase (ec:3.2.1.39))	 1
+(Glycerophospholipid metabolism (map00564), O-phosphatidyltransferase (ec:2.7.8.8))	 2
+(Lysine degradation (map00310), transaminase (ec:2.6.1.21))	 3
+(Thiamine metabolism (map00730), desulfurase (ec:2.8.1.7))	 10
+(Chlorocyclohexane and chlorobenzene degradation (map00361), dehalogenase (ec:3.8.1.2))	 3
+(Glutathione metabolism (map00480), dehydrogenase (ec:1.1.1.49))	 10
+(Purine metabolism (map00230), reductase (ec:1.7.1.7))	 1
+(beta-Alanine metabolism (map00410), dehydrogenase (NAD+) (ec:1.3.1.1))	 3
+(Limonene and pinene degradation (map00903), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Styrene degradation (map00643), 1,2-dioxygenase (ec:1.13.11.5))	 4
+(Pyrimidine metabolism (map00240), synthase (glutamine hydrolysing) (ec:6.3.4.2))	 10
+(Carbon fixation pathways in prokaryotes (map00720), lyase (ec:4.1.3.24))	 1
+(Amino sugar and nucleotide sugar metabolism (map00520), guanylyltransferase (ec:2.7.7.13))	 22
+(Polyketide sugar unit biosynthesis (map00523), reductase (ec:1.1.1.133))	 1
+(Glycerophospholipid metabolism (map00564), kinase (ATP dependent) (ec:2.7.1.107))	 4
+(Butanoate metabolism (map00650), dehydrogenase (ec:1.1.1.61))	 2
+(Arginine and proline metabolism (map00330), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Glutathione metabolism (map00480), synthase (ec:6.3.2.3))	 5
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (acetyl-transferring) (ec:1.2.4.1))	 33
+(Arginine and proline metabolism (map00330), transaminase (ec:2.6.1.11))	 6
+(One carbon pool by folate (map00670), synthase (ec:2.1.1.45))	 9
+(Purine metabolism (map00230), cyclo-ligase (ec:6.3.3.1))	 3
+(Flavonoid biosynthesis (map00941), 4-reductase (ec:1.1.1.219))	 2
+(Butanoate metabolism (map00650), dehydrogenase (ec:1.1.1.30))	 6
+(Cysteine and methionine metabolism (map00270), synthase (ec:2.5.1.47))	 31
+(Tropane, piperidine and pyridine alkaloid biosynthesis (map00960), transaminase (ec:2.6.1.1))	 18
+(Tyrosine metabolism (map00350), dehydrogenase [NAD(P)+] (ec:1.2.1.5))	 2
+(Streptomycin biosynthesis (map00521), hexokinase type IV glucokinase (ec:2.7.1.1))	 3
+(Glyoxylate and dicarboxylate metabolism (map00630), oxidase (ec:1.2.3.5))	 2
+(Retinol metabolism (map00830), dehydrogenase (ec:1.1.1.1))	 19
+(Glycolysis / Gluconeogenesis (map00010), dehydrogenase [NAD(P)+] (ec:1.2.1.5))	 2
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), transaminase (ec:2.6.1.9))	 5
+(Tropane, piperidine and pyridine alkaloid biosynthesis (map00960), transaminase (ec:2.6.1.9))	 5
+(Glycerophospholipid metabolism (map00564), 3-phosphatidyltransferase (ec:2.7.8.5))	 4
+(Porphyrin and chlorophyll metabolism (map00860), cobaltochelatase (ec:4.99.1.3))	 2
+(Butanoate metabolism (map00650), synthase (ec:1.2.7.1))	 1
+(Pyruvate metabolism (map00620), synthase (ec:2.3.3.13))	 21
+(Inositol phosphate metabolism (map00562), 5-phosphatase (ec:3.1.3.56))	 2
+(Glycine, serine and threonine metabolism (map00260), oxidase (ec:1.5.3.1))	 38
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.5))	 29
+(D-Alanine metabolism (map00473), ligase (ec:6.3.2.4))	 6
+(Pyruvate metabolism (map00620), oxidase (ec:1.2.3.3))	 10
+(Tryptophan metabolism (map00380), transaminase (ec:2.6.1.7))	 1
+(Carbon fixation in photosynthetic organisms (map00710), phosphate dikinase (ec:2.7.9.1))	 26
+(Glutathione metabolism (map00480), glutamyl transpeptidase (ec:2.3.2.2))	 18
+(Aminobenzoate degradation (map00627), ligase (ec:6.2.1.25))	 1
+(Amino sugar and nucleotide sugar metabolism (map00520), uridylyltransferase (ec:2.7.7.12))	 2
+(Cysteine and methionine metabolism (map00270), kinase (ec:2.7.2.4))	 8
+(Glyoxylate and dicarboxylate metabolism (map00630), epimerase (ec:5.1.99.1))	 2
+(Alanine, aspartate and glutamate metabolism (map00250), lyase (ec:4.3.2.1))	 10
+(Phenylpropanoid biosynthesis (map00940), lactoperoxidase (ec:1.11.1.7))	 42
+(Starch and sucrose metabolism (map00500), maltase (ec:3.2.1.20))	 5
+(Amino sugar and nucleotide sugar metabolism (map00520), uridylyltransferase (ec:2.7.7.10))	 2
+(Starch and sucrose metabolism (map00500), limit dextrinase (erroneous) (ec:3.2.1.10))	 2
+(Pantothenate and CoA biosynthesis (map00770), dehydrogenase (NAD+) (ec:1.3.1.1))	 3
+(Glycine, serine and threonine metabolism (map00260), mutase (ec:5.4.2.1))	 3
+(Pentose phosphate pathway (map00030), 1-dehydrogenase (PQQ, quinone) (ec:1.1.5.2))	 15
+(Inositol phosphate metabolism (map00562), isomerase (ec:5.3.1.1))	 5
+(Arachidonic acid metabolism (map00590), 1-monooxygenase (ec:1.14.15.3))	 1
+(Propanoate metabolism (map00640), CoA-transferase (ec:2.8.3.8))	 6
+(Pentose phosphate pathway (map00030), 2-dehydrogenase (ec:1.1.1.215))	 2
+(Pyruvate metabolism (map00620), synthase (ec:4.2.3.3))	 1
+(D-Glutamine and D-glutamate metabolism (map00471), ligase (ec:6.3.2.8))	 6
+(Inositol phosphate metabolism (map00562), 4-kinase (ec:2.7.1.67))	 1
+(Cysteine and methionine metabolism (map00270), gamma-lyase (ec:4.4.1.1))	 2
+(Biosynthesis of unsaturated fatty acids (map01040), hydratase (ec:4.2.1.17))	 33
+(Glycerophospholipid metabolism (map00564), phosphodiesterase (ec:3.1.4.13))	 3
+(Propanoate metabolism (map00640), hydratase (ec:4.2.1.17))	 33
+(Phosphatidylinositol signaling system (map04070), cytidylyltransferase (ec:2.7.7.41))	 1
+(Geraniol degradation (map00281), C-acyltransferase (ec:2.3.1.16))	 37
+(Glycolysis / Gluconeogenesis (map00010), isomerase (ec:5.3.1.9))	 13
+(Aminobenzoate degradation (map00627), CoA-transferase (ec:2.8.3.8))	 6
+(Pyrimidine metabolism (map00240), deaminase (ec:3.5.4.1))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), hydroxymethyltransferase (ec:2.1.2.1))	 12
+(Cysteine and methionine metabolism (map00270), O-acetyltransferase (ec:2.3.1.30))	 12
+(Glycerophospholipid metabolism (map00564), phosphodiesterase (ec:3.1.4.46))	 2
+(Butanoate metabolism (map00650), Delta-isomerase (ec:5.3.3.3))	 6
+(Galactose metabolism (map00052), reductase (ec:1.1.1.21))	 3
+(Steroid biosynthesis (map00100), 14alpha-demethylase (ec:1.14.13.70))	 3
+(Biotin metabolism (map00780), transaminase (ec:2.6.1.62))	 23
+(Pyrimidine metabolism (map00240), hydantoinase (ec:3.5.2.2))	 6
+(Fatty acid metabolism (map00071), hydratase (ec:4.2.1.74))	 1
+(Arginine and proline metabolism (map00330), deacetylase (ec:3.5.1.16))	 1
+(Novobiocin biosynthesis (map00401), transaminase (ec:2.6.1.1))	 18
+(Valine, leucine and isoleucine degradation (map00280), CoA-transferase (ec:2.8.3.5))	 16
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.2))	 13
+(Terpenoid backbone biosynthesis (map00900), reductase (ec:1.1.1.88))	 1
+(Phenylalanine metabolism (map00360), oxidase (ec:1.4.3.21))	 1
+(Terpenoid backbone biosynthesis (map00900), oxidase (ec:1.8.3.5))	 1
+(Arginine and proline metabolism (map00330), (ATP-hydrolysing) (ec:3.5.2.14))	 11
+(Tyrosine metabolism (map00350), monophenol monooxygenase (ec:1.14.18.1))	 1
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), synthase (ec:2.5.1.54))	 15
+(Sphingolipid metabolism (map00600), sulfatase (ec:3.1.6.1))	 11
+(Glycolysis / Gluconeogenesis (map00010), isomerase (ec:5.3.1.1))	 5
+(Methane metabolism (map00680), dehydrogenase (ec:1.1.1.95))	 8
+(Aminobenzoate degradation (map00627), dehydrogenase (NAD+) (ec:1.2.1.28))	 1
+(Glutathione metabolism (map00480), transferase (ec:2.5.1.18))	 8
+(Carbon fixation in photosynthetic organisms (map00710), transaminase (ec:2.6.1.1))	 18
+(Pyruvate metabolism (map00620), reductase (NADP+) (ec:1.1.1.79))	 1
+(Glycine, serine and threonine metabolism (map00260), hydroxymethyltransferase (ec:2.1.2.1))	 12
+(Ascorbate and aldarate metabolism (map00053), oxygenase (ec:1.13.99.1))	 1
+(Amino sugar and nucleotide sugar metabolism (map00520), deaminase (ec:3.5.99.6))	 1
+(Biosynthesis of vancomycin group antibiotics (map01055), 4,6-dehydratase (ec:4.2.1.46))	 1
+(Methane metabolism (map00680), carboxylase (ec:4.1.1.31))	 2
+(Taurine and hypotaurine metabolism (map00430), dehydrogenase (ec:1.4.1.1))	 10
+(Pyrimidine metabolism (map00240), uridine 5'-nucleotidase (ec:3.1.3.5))	 16
+(Porphyrin and chlorophyll metabolism (map00860), acid a,c-diamide adenosyltransferase (ec:2.5.1.17))	 3
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (ec:1.3.99.1))	 28
+(Arginine and proline metabolism (map00330), acylamidase (ec:3.5.1.4))	 4
+(Biotin metabolism (map00780), reductase (ec:1.1.1.100))	 34
+(Glycerolipid metabolism (map00561), lipase (ec:3.1.1.23))	 2
+(Porphyrin and chlorophyll metabolism (map00860), C20-methyltransferase (ec:2.1.1.130))	 1
+(Histidine metabolism (map00340), deformylase (ec:3.5.1.68))	 1
+(Cysteine and methionine metabolism (map00270), S-methyltransferase (ec:2.1.1.10))	 13
+(Methane metabolism (map00680), mutase (ec:5.4.2.1))	 3
+(Sulfur metabolism (map00920), O-acetyltransferase (ec:2.3.1.30))	 12
+(Phenylpropanoid biosynthesis (map00940), reductase (ec:1.2.1.44))	 1
+(Glycine, serine and threonine metabolism (map00260), ammonia-lyase (ec:4.3.1.19))	 1
+(Glycine, serine and threonine metabolism (map00260), transaminase (ec:2.6.1.52))	 11
+(Glycosaminoglycan degradation (map00531), lactase (ambiguous) (ec:3.2.1.23))	 8
+(Taurine and hypotaurine metabolism (map00430), dehydrogenase (ec:1.4.1.2))	 7
+(Butirosin and neomycin biosynthesis (map00524), glucokinase (phosphorylating) (ec:2.7.1.2))	 2
+(Alanine, aspartate and glutamate metabolism (map00250), synthase (glutamine-hydrolysing) (ec:6.3.5.4))	 3
+(Thiamine metabolism (map00730), phosphatase (ec:3.6.1.15))	 443
+(Carbon fixation pathways in prokaryotes (map00720), C-acetyltransferase (ec:2.3.1.9))	 42
+(Pyrimidine metabolism (map00240), decarboxylase (ec:4.1.1.23))	 3
+(Drug metabolism - other enzymes (map00983), kinase (ec:2.7.1.48))	 3
+(Glyoxylate and dicarboxylate metabolism (map00630), hydratase (ec:4.2.1.3))	 23
+(Glyoxylate and dicarboxylate metabolism (map00630), ligase (ec:6.3.1.2))	 28
+(Glyoxylate and dicarboxylate metabolism (map00630), synthase (ferredoxin) (ec:1.4.7.1))	 24
+(Glyoxylate and dicarboxylate metabolism (map00630), (Si)-synthase (ec:2.3.3.1))	 16
+(Alanine, aspartate and glutamate metabolism (map00250), dehydrogenase [NAD(P)+] (ec:1.2.1.16))	 7
+(Galactose metabolism (map00052), phosphotransferase (ec:2.7.1.69))	 1
+(Steroid biosynthesis (map00100), esterase (ec:3.1.1.13))	 1
+(Histidine metabolism (map00340), decarboxylase (ec:4.1.1.28))	 1
+(Glycerolipid metabolism (map00561), melibiase (ec:3.2.1.22))	 6
+(Amino sugar and nucleotide sugar metabolism (map00520), galactokinase (phosphorylating) (ec:2.7.1.6))	 1
+(Phosphatidylinositol signaling system (map04070), 3-kinase (ec:2.7.1.137))	 1
+(Valine, leucine and isoleucine degradation (map00280), epimerase (ec:5.1.99.1))	 2
+(Toluene degradation (map00623), dehydrogenase (ec:1.3.99.1))	 28
+(Bisphenol degradation (map00363), dioxygenase (ec:1.13.11.41))	 1
+(Polyketide sugar unit biosynthesis (map00523), transaminase (ec:2.6.1.33))	 2
+(Butanoate metabolism (map00650), dehydrogenase (acetyl-transferring) (ec:1.2.4.1))	 33
+(Pyrimidine metabolism (map00240), phosphoribosyltransferase (ec:2.4.2.10))	 3
+(Selenocompound metabolism (map00450), synthase (ec:2.1.1.13))	 16
+(Biosynthesis of unsaturated fatty acids (map01040), hydrolase (ec:3.1.2.2))	 3
+(Terpenoid backbone biosynthesis (map00900), synthase [geranyl-diphosphate specific] (ec:2.5.1.84))	 1
+(Propanoate metabolism (map00640), CoA-transferase (ec:2.8.3.1))	 8
+(Fatty acid biosynthesis (map00061), reductase (ec:1.1.1.100))	 34
+(Glyoxylate and dicarboxylate metabolism (map00630), dehydrogenase (cytochrome) (ec:1.2.2.1))	 6
+(Tryptophan metabolism (map00380), decarboxylase (ec:4.1.1.28))	 1
+(Ethylbenzene degradation (map00642), C-acyltransferase (ec:2.3.1.16))	 37
+(Drug metabolism - cytochrome P450 (map00982), oxidase (ec:1.2.3.1))	 5
+(Benzoate degradation (map00362), C-acetyltransferase (ec:2.3.1.9))	 42
+(Purine metabolism (map00230), kinase (ec:2.7.4.6))	 4
+(Novobiocin biosynthesis (map00401), dehydrogenase (ec:1.3.1.12))	 3
+(Pentose phosphate pathway (map00030), phosphogluconolactonase (ec:3.1.1.31))	 2
+(beta-Alanine metabolism (map00410), synthase (ec:2.5.1.22))	 1
+(Oxidative phosphorylation (map00190), dehydrogenase (ubiquinone) (ec:1.3.5.1))	 28
+(Lysine degradation (map00310), hydratase (ec:4.2.1.17))	 33
+(Styrene degradation (map00643), beta-diketonase (ec:3.7.1.2))	 3
+(Cysteine and methionine metabolism (map00270), beta-lyase (ec:4.4.1.8))	 10
+(Pantothenate and CoA biosynthesis (map00770), dehydratase (ec:4.2.1.9))	 33
+(Nitrogen metabolism (map00910), dehydrogenase (ec:1.6.99.3))	 4
+(Folate biosynthesis (map00790), synthase (ec:6.3.2.17))	 1
+(Starch and sucrose metabolism (map00500), amylo-1,6-glucosidase (ec:3.2.1.33))	 1
+(Propanoate metabolism (map00640), acetyltransferase (ec:2.3.1.8))	 10
+(Carbon fixation in photosynthetic organisms (map00710), carboxylase (ec:4.1.1.31))	 2
+(Phenylalanine metabolism (map00360), hydratase (ec:4.2.1.17))	 33
+(Diterpenoid biosynthesis (map00904), synthase (ec:4.2.3.28))	 2
+(Peptidoglycan biosynthesis (map00550), MraY transferase (ec:2.7.8.13))	 9
+(Glycerophospholipid metabolism (map00564), dehydrogenase [NAD(P)+] (ec:1.1.1.94))	 1
+(Tropane, piperidine and pyridine alkaloid biosynthesis (map00960), oxidase (ec:1.4.3.21))	 1
+(Sulfur metabolism (map00920), adenylyltransferase (ec:2.7.7.4))	 11
+(C5-Branched dibasic acid metabolism (map00660), synthase (ec:2.2.1.6))	 24
+(Nicotinate and nicotinamide metabolism (map00760), phosphoribosyltransferase (ec:2.4.2.12))	 4
+(Phenylalanine metabolism (map00360), dioxygenase (ec:1.13.11.27))	 4
+(Glycolysis / Gluconeogenesis (map00010), dehydrogenase (phosphorylating) (ec:1.2.1.12))	 26
+(Carbon fixation pathways in prokaryotes (map00720), dehydrogenase (acceptor) (ec:1.2.99.2))	 24
+(Valine, leucine and isoleucine degradation (map00280), hydrolase (ec:3.1.2.4))	 2
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (decarboxylating) (ec:1.4.4.2))	 19
+(Carbon fixation in photosynthetic organisms (map00710), dehydrogenase (decarboxylating) (ec:1.1.1.39))	 9
+(Xylene degradation (map00622), dehydrogenase (NAD+) (ec:1.2.1.28))	 1
+(Citrate cycle (TCA cycle) (map00020), dehydrogenase (ec:1.1.1.37))	 21
+(Selenocompound metabolism (map00450), S-methyltransferase (ec:2.1.1.14))	 7
+(Histidine metabolism (map00340), dehydrogenase (ec:1.1.1.23))	 12
+(Amino sugar and nucleotide sugar metabolism (map00520), 1-carboxyvinyltransferase (ec:2.5.1.7))	 8
+(Riboflavin metabolism (map00740), synthetase (ec:2.7.7.2))	 1
+(Pyruvate metabolism (map00620), dehydrogenase (oxaloacetate-decarboxylating) (NADP+) (ec:1.1.1.40))	 27
+(Glycerolipid metabolism (map00561), dehydrogenase (ec:1.1.1.6))	 3
+(Pentose and glucuronate interconversions (map00040), xylulokinase (phosphorylating) (ec:2.7.1.17))	 1
+(Terpenoid backbone biosynthesis (map00900), Delta-isomerase (ec:5.3.3.2))	 1
+(Phosphatidylinositol signaling system (map04070), 3-phosphatase (ec:3.1.3.67))	 3
+(Galactose metabolism (map00052), melibiase (ec:3.2.1.22))	 6
+(Valine, leucine and isoleucine degradation (map00280), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Pentose phosphate pathway (map00030), phosphodeoxyribomutase (ec:5.4.2.7))	 3
+(Galactose metabolism (map00052), limit dextrinase (erroneous) (ec:3.2.1.10))	 2
+(Ubiquinone and other terpenoid-quinone biosynthesis (map00130), 3-O-methyltransferase (ec:2.1.1.64))	 7
+(Lipopolysaccharide biosynthesis (map00540), cytidylyltransferase (ec:2.7.7.38))	 3
+(Fructose and mannose metabolism (map00051), isomerase (ec:5.3.1.6))	 6
+(Starch and sucrose metabolism (map00500), (alpha-D-glucose-1,6-bisphosphate-dependent) (ec:5.4.2.2))	 7
+(Glyoxylate and dicarboxylate metabolism (map00630), synthase (ec:2.3.3.9))	 11
+(Fatty acid metabolism (map00071), isomerase (ec:5.3.3.8))	 1
+(Starch and sucrose metabolism (map00500), 4-epimerase (ec:5.1.3.6))	 1
+(Geraniol degradation (map00281), lyase (ec:4.1.3.4))	 2
+(Biotin metabolism (map00780), synthase (ec:2.8.1.6))	 1
+(Glycerophospholipid metabolism (map00564), lecithinase B (ec:3.1.1.5))	 3
+(Glycine, serine and threonine metabolism (map00260), O-phosphatidyltransferase (ec:2.7.8.8))	 2
+(Histidine metabolism (map00340), hydratase (ec:4.2.1.49))	 1
+(D-Alanine metabolism (map00473), racemase (ec:5.1.1.1))	 3
+(Styrene degradation (map00643), acylamidase (ec:3.5.1.4))	 4
+(Taurine and hypotaurine metabolism (map00430), glutamyl transpeptidase (ec:2.3.2.2))	 18
+(Drug metabolism - other enzymes (map00983), phosphorylase (ec:2.4.2.4))	 2
+(Glutathione metabolism (map00480), peroxidase (ec:1.11.1.11))	 3
+(Sphingolipid metabolism (map00600), N-acyltransferase (ec:2.3.1.24))	 1
+(Glycolysis / Gluconeogenesis (map00010), phosphohexokinase (ec:2.7.1.11))	 6
+(Aminobenzoate degradation (map00627), hydratase (ec:4.2.1.84))	 2
+(Pyruvate metabolism (map00620), dehydrogenase (quinone) (ec:1.1.5.4))	 3
+(Glycerophospholipid metabolism (map00564), dehydrogenase (ec:1.1.5.3))	 14
+(Terpenoid backbone biosynthesis (map00900), synthase (ec:1.17.7.1))	 3
+(Alanine, aspartate and glutamate metabolism (map00250), phosphoribosyldiphosphate 5-amidotransferase (ec:2.4.2.14))	 9
+(Riboflavin metabolism (map00740), reductase (ec:1.1.1.193))	 2
+(Penicillin and cephalosporin biosynthesis (map00311), penicillinase (ec:3.5.2.6))	 3
+(Ether lipid metabolism (map00565), A2 (ec:3.1.1.4))	 3
+(Purine metabolism (map00230), uridine 5'-nucleotidase (ec:3.1.3.5))	 16
+(Fatty acid biosynthesis (map00061), hydrolase (ec:3.1.2.14))	 1
+(Purine metabolism (map00230), formyltransferase (ec:2.1.2.3))	 6
+(Sphingolipid metabolism (map00600), C-palmitoyltransferase (ec:2.3.1.50))	 4
+(Sulfur metabolism (map00920), sulfotransferase (ec:2.8.2.1))	 1
+(Glycine, serine and threonine metabolism (map00260), synthase (ec:4.2.1.20))	 19
+(Glycine, serine and threonine metabolism (map00260), reductase (ec:1.1.1.81))	 1
+(Purine metabolism (map00230), ligase (ec:6.3.4.13))	 5
+(Nicotinate and nicotinamide metabolism (map00760), reductase (ec:1.3.7.1))	 1
+(Phosphatidylinositol signaling system (map04070), phosphatase (ec:3.1.3.25))	 4
+(Retinol metabolism (map00830), 13,14-reductase (ec:1.3.99.23))	 1
+(Primary bile acid biosynthesis (map00120), dehydrogenase (ec:1.1.1.35))	 17
+(Pyruvate metabolism (map00620), C-acetyltransferase (ec:2.3.1.9))	 42
+(Porphyrin and chlorophyll metabolism (map00860), methylmutase (ec:5.4.1.2))	 3
+(Isoquinoline alkaloid biosynthesis (map00950), decarboxylase (ec:4.1.1.28))	 1
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), dehydrogenase (quinone) (ec:1.1.5.8))	 1
+(Purine metabolism (map00230), phosphorylase (ec:2.4.2.1))	 2
+(Cysteine and methionine metabolism (map00270), sulfurtransferase (ec:2.8.1.2))	 1
+(Starch and sucrose metabolism (map00500), glycogenase (ec:3.2.1.1))	 4
+(Valine, leucine and isoleucine biosynthesis (map00290), dehydrogenase (ec:1.1.1.85))	 5
+(Sulfur metabolism (map00920), dehydrogenase (ec:1.8.2.1))	 6
+(Methane metabolism (map00680), dehydrogenase (NADP+) (ec:1.1.1.272))	 3
+(Glutathione metabolism (map00480), thioredoxin peroxidase (ec:1.11.1.15))	 20
+(Propanoate metabolism (map00640), dehydrogenase (acylating) (ec:1.2.1.27))	 12
+(Galactose metabolism (map00052), (alpha-D-glucose-1,6-bisphosphate-dependent) (ec:5.4.2.2))	 7
+(Nitrogen metabolism (map00910), synthase (NADPH) (ec:1.4.1.13))	 39
+(Glycine, serine and threonine metabolism (map00260), dehydrogenase (ec:1.2.1.8))	 4
+(Aminobenzoate degradation (map00627), 4,5-dioxygenase (ec:1.13.11.8))	 1
+(Fatty acid elongation (map00062), hydrolase (ec:3.1.2.22))	 1
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), mutase (ec:5.4.99.5))	 8
+(Atrazine degradation (map00791), ec:3.5.1.5 urease (ec:3.5.1.5))	 10
+(mTOR signaling pathway (map04150), protein kinase (ec:2.7.11.9))	 1
+(Valine, leucine and isoleucine degradation (map00280), oxidase (ec:1.2.3.1))	 5
+(Amino sugar and nucleotide sugar metabolism (map00520), 4-epimerase (ec:5.1.3.2))	 4
+(Glycolysis / Gluconeogenesis (map00010), (alpha-D-glucose-1,6-bisphosphate-dependent) (ec:5.4.2.2))	 7
+(Alanine, aspartate and glutamate metabolism (map00250), ammonia-lyase (ec:4.3.1.1))	 2
+(Histidine metabolism (map00340), transaminase (ec:2.6.1.9))	 5
+(Starch and sucrose metabolism (map00500), gentiobiase (ec:3.2.1.21))	 5
+(One carbon pool by folate (map00670), cyclo-ligase (ec:6.3.3.2))	 4
+(Glyoxylate and dicarboxylate metabolism (map00630), decarboxylase (ec:4.1.1.8))	 21
+(Starch and sucrose metabolism (map00500), trehalose 6-phosphatase (ec:3.1.3.12))	 4
+(Novobiocin biosynthesis (map00401), transaminase (ec:2.6.1.5))	 5
+(Inositol phosphate metabolism (map00562), 5-keto-2-deoxygluconokinase (ec:2.7.1.92))	 1
+(Glycerophospholipid metabolism (map00564), dehydrogenase (NAD+) (ec:1.1.1.8))	 2
+(Purine metabolism (map00230), deaminase (ec:3.5.4.3))	 3
+(beta-Alanine metabolism (map00410), dehydrogenase (NADP+) (ec:1.3.1.2))	 3
+(Tryptophan metabolism (map00380), ec:3.7.1.3 kynureninase (ec:3.7.1.3))	 4
+(Propanoate metabolism (map00640), ligase (GDP-forming) (ec:6.2.1.4))	 6
+(Pantothenate and CoA biosynthesis (map00770), synthase (ec:2.2.1.6))	 24
+(Lysine degradation (map00310), dehydrogenase (ec:1.1.1.35))	 17
+(Cysteine and methionine metabolism (map00270), synthase (ec:2.1.1.13))	 16
+(Arginine and proline metabolism (map00330), amidinotransferase (ec:2.1.4.1))	 3
+(Nitrogen metabolism (map00910), monooxygenase (ec:1.13.12.16))	 4
+(Glycolysis / Gluconeogenesis (map00010), acetyltransferase (ec:2.3.1.12))	 20
+(beta-Alanine metabolism (map00410), decarboxylase (ec:4.1.1.9))	 3
+(Carbon fixation pathways in prokaryotes (map00720), ligase (ec:6.2.1.1))	 26
+(Tyrosine metabolism (map00350), 1,2-dioxygenase (ec:1.13.11.5))	 4
+(Streptomycin biosynthesis (map00521), glucokinase (phosphorylating) (ec:2.7.1.2))	 2
+(Pentose and glucuronate interconversions (map00040), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Pyruvate metabolism (map00620), synthase (ec:1.2.7.1))	 1
+(Glycerolipid metabolism (map00561), reductase (ec:1.1.1.21))	 3
+(Taurine and hypotaurine metabolism (map00430), acetyltransferase (ec:2.3.1.8))	 10
+(Photosynthesis (map00195), reductase (ec:1.18.1.2))	 19
+(Synthesis and degradation of ketone bodies (map00072), C-acetyltransferase (ec:2.3.1.9))	 42
+(Carbon fixation pathways in prokaryotes (map00720), epimerase (ec:5.1.99.1))	 2
+(Cysteine and methionine metabolism (map00270), adenosyltransferase (ec:2.5.1.6))	 23
+(Purine metabolism (map00230), RNA polymerase (ec:2.7.7.48))	 4
+(Cysteine and methionine metabolism (map00270), dioxygenase (Ni2+-requiring) (ec:1.13.11.53))	 1
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), dehydrogenase (ec:1.3.1.43))	 1
+(Synthesis and degradation of ketone bodies (map00072), dehydrogenase (ec:1.1.1.30))	 6
+(Butanoate metabolism (map00650), dehydrogenase (NAD+) (ec:1.2.1.24))	 5
+(Methane metabolism (map00680), dehydrogenase (ec:1.2.1.2))	 41
+(Drug metabolism - other enzymes (map00983), deaminase (ec:3.5.4.5))	 1
+(Pyrimidine metabolism (map00240), phosphorylase (ec:2.4.2.4))	 2
+(Glycerophospholipid metabolism (map00564), A2 (ec:3.1.1.4))	 3
+(Alanine, aspartate and glutamate metabolism (map00250), dehydrogenase (ec:1.4.1.1))	 10
+(Fructose and mannose metabolism (map00051), 2-phosphatase (ec:3.1.3.46))	 3
+(Tyrosine metabolism (map00350), decarboxylase (ec:4.1.1.68))	 1
+(Tryptophan metabolism (map00380), C-acetyltransferase (ec:2.3.1.9))	 42
+(Fructose and mannose metabolism (map00051), isomerase (ec:5.3.1.7))	 2
+(Pentose phosphate pathway (map00030), phosphohexokinase (ec:2.7.1.11))	 6
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), synthase (ec:4.1.3.27))	 3
+(Selenocompound metabolism (map00450), gamma-synthase (ec:2.5.1.48))	 2
+(Butanoate metabolism (map00650), hydratase (ec:4.2.1.17))	 33
+(Pentose and glucuronate interconversions (map00040), ketol-isomerase (ec:5.3.1.15))	 3
+(Porphyrin and chlorophyll metabolism (map00860), reductase (NADPH) (ec:1.16.1.5))	 1
+(Pyrimidine metabolism (map00240), ec:3.5.1.6 beta-ureidopropionase (ec:3.5.1.6))	 5
+(Phosphatidylinositol signaling system (map04070), 5-kinase (ec:2.7.1.150))	 1
+(Butanoate metabolism (map00650), C-acetyltransferase (ec:2.3.1.9))	 42
+(Galactose metabolism (map00052), hexokinase type IV glucokinase (ec:2.7.1.1))	 3
+(Streptomycin biosynthesis (map00521), phosphatase (ec:3.1.3.25))	 4
+(Cysteine and methionine metabolism (map00270), synthase (ec:4.4.1.14))	 28
+(Terpenoid backbone biosynthesis (map00900), diphosphate synthase (ec:2.5.1.10))	 4
+(Fatty acid biosynthesis (map00061), synthase II (ec:2.3.1.179))	 8
+(Citrate cycle (TCA cycle) (map00020), (Si)-synthase (ec:2.3.3.1))	 16
+(Pantothenate and CoA biosynthesis (map00770), dehydrogenase (NADP+) (ec:1.3.1.2))	 3
+(Betalain biosynthesis (map00965), O-methyltransferase (ec:2.1.1.6))	 6
+(Starch and sucrose metabolism (map00500), synthase (ec:2.4.1.11))	 2
+(Phenylalanine, tyrosine and tryptophan biosynthesis (map00400), 4-monooxygenase (ec:1.14.16.1))	 1
+(Fatty acid biosynthesis (map00061), synthase (ec:2.3.1.86))	 16
+(Ascorbate and aldarate metabolism (map00053), dehydratase (ec:4.2.1.42))	 2
+(Terpenoid backbone biosynthesis (map00900), 2,4-cyclodiphosphate synthase (ec:4.6.1.12))	 1
+(Sphingolipid metabolism (map00600), aldolase (ec:4.1.2.27))	 1
+(Glycolysis / Gluconeogenesis (map00010), kinase (ec:2.7.2.3))	 8
+(Purine metabolism (map00230), phosphoribosyltransferase (ec:2.4.2.8))	 2
+(Nitrogen metabolism (map00910), reductase (NO-forming) (ec:1.7.2.1))	 12
+(Sulfur metabolism (map00920), reductase (ferredoxin) (ec:1.8.7.1))	 9
+(Phenylalanine metabolism (map00360), transaminase (ec:2.6.1.1))	 18
+(Fatty acid metabolism (map00071), C-acyltransferase (ec:2.3.1.16))	 37
+(Pyrimidine metabolism (map00240), phosphoribosyltransferase (ec:2.4.2.9))	 8
+(Butanoate metabolism (map00650), dehydratase (ec:4.2.1.55))	 1
+(Pentose and glucuronate interconversions (map00040), reductase (ec:1.1.1.21))	 3
+(Pantothenate and CoA biosynthesis (map00770), kinase (ec:2.7.1.33))	 1
+(Methane metabolism (map00680), transaminase (ec:2.6.1.52))	 11
+(Arginine and proline metabolism (map00330), agmatine ureohydrolase (ec:3.5.3.11))	 3
+(Vitamin B6 metabolism (map00750), synthase (ec:4.2.3.1))	 5
+(Isoquinoline alkaloid biosynthesis (map00950), monophenol monooxygenase (ec:1.14.18.1))	 1
+(Benzoate degradation (map00362), 4,5-dioxygenase (ec:1.13.11.8))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), reductase (ec:1.1.1.36))	 8
+(Phenylpropanoid biosynthesis (map00940), gentiobiase (ec:3.2.1.21))	 5
+(Glyoxylate and dicarboxylate metabolism (map00630), aldolase (ec:4.1.3.16))	 3
+(Arginine and proline metabolism (map00330), arginine amidinase (ec:3.5.3.1))	 1
+(Streptomycin biosynthesis (map00521), 4,6-dehydratase (ec:4.2.1.46))	 1
+(Lysine biosynthesis (map00300), dehydrogenase (ec:1.1.1.3))	 7
+(Ubiquinone and other terpenoid-quinone biosynthesis (map00130), reductase (warfarin-sensitive) (ec:1.1.4.1))	 1
+(Pentose phosphate pathway (map00030), (alpha-D-glucose-1,6-bisphosphate-dependent) (ec:5.4.2.2))	 7
+(Arachidonic acid metabolism (map00590), peroxidase (ec:1.11.1.9))	 1
+(Citrate cycle (TCA cycle) (map00020), ligase (GDP-forming) (ec:6.2.1.4))	 6
+(Nitrotoluene degradation (map00633), dehydrogenase (acceptor) (ec:1.2.99.2))	 24
+(Toluene degradation (map00623), dehydrogenase (NAD+) (ec:1.2.1.28))	 1
+(Purine metabolism (map00230), diphosphate phosphatase (ec:3.6.1.6))	 1
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.18))	 8
+(Vitamin B6 metabolism (map00750), oxidase (ec:1.2.3.1))	 5
+(Cysteine and methionine metabolism (map00270), synthase (ec:2.5.1.22))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), reductase (ec:1.1.1.77))	 3
+(Phosphatidylinositol signaling system (map04070), 5-phosphatase (ec:3.1.3.56))	 2
+(Glycine, serine and threonine metabolism (map00260), kinase (ec:2.7.2.4))	 8
+(Amino sugar and nucleotide sugar metabolism (map00520), 4,6-dehydratase (ec:4.2.1.76))	 1
+(Glyoxylate and dicarboxylate metabolism (map00630), dehydrogenase (ec:1.1.1.37))	 21
+(Aminoacyl-tRNA biosynthesis (map00970), ligase (ec:6.1.1.15))	 12
+(D-Arginine and D-ornithine metabolism (map00472), racemase (ec:5.1.1.10))	 1
+(Arginine and proline metabolism (map00330), dihydrolase (ec:3.5.3.23))	 1
+(Aminobenzoate degradation (map00627), monooxygenase (ec:1.14.13.82))	 2
+(Glycine, serine and threonine metabolism (map00260), S-aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate aminomethyltransferase (ammonia-forming) (ec:2.1.2.10))	 101
+(Purine metabolism (map00230), dehydrogenase (ec:1.1.1.205))	 19
+(D-Arginine and D-ornithine metabolism (map00472), transaminase (ec:2.6.1.21))	 3
+(Tryptophan metabolism (map00380), reductase (NADPH) (ec:1.1.1.191))	 1
+(Fatty acid metabolism (map00071), dehydrogenase (ec:1.1.1.1))	 19
+(Amino sugar and nucleotide sugar metabolism (map00520), isomerase (ec:5.3.1.9))	 13
+(Glycosaminoglycan degradation (map00531), hexosaminidase (ec:3.2.1.52))	 2
+(Benzoate degradation (map00362), dehydrogenase (ec:1.1.1.157))	 9
+(Purine metabolism (map00230), ec:3.5.1.5 urease (ec:3.5.1.5))	 10
+(Pentose phosphate pathway (map00030), hexose diphosphatase (ec:3.1.3.11))	 15
+(Fructose and mannose metabolism (map00051), phosphotransferase (ec:2.7.1.69))	 1
+(Propanoate metabolism (map00640), dehydrogenase (NAD+) (ec:1.2.1.3))	 23
+(Porphyrin and chlorophyll metabolism (map00860), ferro-protoporphyrin chelatase (ec:4.99.1.1))	 4
+(One carbon pool by folate (map00670), dehydrogenase (ec:1.5.1.6))	 11
+(Alanine, aspartate and glutamate metabolism (map00250), carbamoyltransferase (ec:2.1.3.2))	 11
+(Lysine degradation (map00310), dehydrogenase (ec:1.2.1.31))	 2
+(Pentose and glucuronate interconversions (map00040), beta-glucuronide glucuronohydrolase glucuronidase (ec:3.2.1.31))	 3
+(Glycolysis / Gluconeogenesis (map00010), mutase (ec:5.4.2.1))	 3
+(Phenylalanine metabolism (map00360), ligase (ec:6.2.1.30))	 3
+(Styrene degradation (map00643), CoA-transferase (ec:2.8.3.1))	 8
+(Aminobenzoate degradation (map00627), phosphatase (ec:3.1.3.1))	 1
+(Citrate cycle (TCA cycle) (map00020), ligase (ADP-forming) (ec:6.2.1.5))	 27
+(Pentose phosphate pathway (map00030), 1-dehydrogenase (ec:1.1.1.47))	 3
+(Histidine metabolism (map00340), dehydratase (ec:4.2.1.19))	 4
+(Galactose metabolism (map00052), 4-epimerase (ec:5.1.3.2))	 4
+(Glycerolipid metabolism (map00561), kinase (ATP dependent) (ec:2.7.1.107))	 4
+(Biotin metabolism (map00780), synthase (ec:2.3.1.47))	 3
+(Sphingolipid metabolism (map00600), phosphodiesterase D (ec:3.1.4.41))	 1
+(Glycolysis / Gluconeogenesis (map00010), glucokinase (phosphorylating) (ec:2.7.1.2))	 2
+(Purine metabolism (map00230), deoxy-GTPase (ec:3.1.5.1))	 2
+(Steroid biosynthesis (map00100), oxidase (ec:1.14.21.6))	 1
+(Lysine degradation (map00310), dehydrogenase (ec:1.5.99.3))	 1
+(Nitrogen metabolism (map00910), dehydratase (ec:4.2.1.1))	 2
+(Starch and sucrose metabolism (map00500), isomerase (ec:5.3.1.9))	 13
+(Styrene degradation (map00643), hydratase (ec:4.2.1.84))	 2
+(Aminoacyl-tRNA biosynthesis (map00970), synthase (glutamine-hydrolysing) (ec:6.3.5.7))	 16
+(Phenylalanine metabolism (map00360), dehydrogenase (ec:1.1.1.157))	 9
+(Butanoate metabolism (map00650), dehydrogenase (acetylating) (ec:1.2.1.10))	 4
+(Purine metabolism (map00230), synthase (glutamine-hydrolysing) (ec:6.3.5.2))	 6
+(Amino sugar and nucleotide sugar metabolism (map00520), glucokinase (phosphorylating) (ec:2.7.1.2))	 2
+(Arginine and proline metabolism (map00330), ligase (ec:6.3.1.11))	 3
+(Lysine biosynthesis (map00300), desuccinylase (ec:3.5.1.18))	 9
+(Fructose and mannose metabolism (map00051), hexose diphosphatase (ec:3.1.3.11))	 15
+(Glycolysis / Gluconeogenesis (map00010), hydratase (ec:4.2.1.11))	 36
+(Ascorbate and aldarate metabolism (map00053), peroxidase (ec:1.11.1.11))	 3
+(Pentose phosphate pathway (map00030), isomerase (ec:5.3.1.6))	 6
+(Starch and sucrose metabolism (map00500), hexokinase type IV glucokinase (ec:2.7.1.1))	 3

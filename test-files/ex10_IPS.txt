@@ -1,0 +1,130 @@
+Seq1	Seq1	IPR001098	DNA-directed DNA polymerase, family A, palm domain	Domain	PF00476 (PFAM)
+Seq1	Seq1	IPR001098	DNA-directed DNA polymerase, family A, palm domain	Domain	SM00482 (SMART)
+Seq1	Seq1	IPR001098	DNA-directed DNA polymerase, family A, palm domain	Domain	GO:0003677
+Seq1	Seq1	IPR001098	DNA-directed DNA polymerase, family A, palm domain	Domain	GO:0003887
+Seq1	Seq1	IPR001098	DNA-directed DNA polymerase, family A, palm domain	Domain	GO:0006260
+Seq1	Seq1	IPR002298	DNA polymerase A	Family	PR00868 (PRINTS)
+Seq1	Seq1	IPR002298	DNA polymerase A	Family	GO:0003677
+Seq1	Seq1	IPR002298	DNA polymerase A	Family	GO:0003887
+Seq1	Seq1	IPR002298	DNA polymerase A	Family	GO:0006260
+Seq1	Seq1	IPR002421	5'-3' exonuclease, N-terminal	Domain	SM00475 (SMART)
+Seq1	Seq1	IPR002421	5'-3' exonuclease, N-terminal	Domain	GO:0003677
+Seq1	Seq1	IPR002421	5'-3' exonuclease, N-terminal	Domain	GO:0008409
+Seq1	Seq1	IPR008918	Helix-hairpin-helix motif, class 2	Conserved_site	SM00279 (SMART)
+Seq1	Seq1	IPR008918	Helix-hairpin-helix motif, class 2	Conserved_site	GO:0003677
+Seq1	Seq1	IPR008918	Helix-hairpin-helix motif, class 2	Conserved_site	GO:0003824
+Seq1	Seq1	IPR012337	Ribonuclease H-like domain	Domain	SSF53098 (SUPERFAMILY)
+Seq1	Seq1	IPR012337	Ribonuclease H-like domain	Domain	GO:0003676
+Seq1	Seq1	IPR018320	DNA polymerase 1	Family	TIGR00593 (TIGRFAMs)
+Seq1	Seq1	IPR018320	DNA polymerase 1	Family	GO:0003887
+Seq1	Seq1	IPR018320	DNA polymerase 1	Family	GO:0006260
+Seq1	Seq1	IPR019760	DNA-directed DNA polymerase, family A, conserved site	Conserved_site	PS00447 (PROSITE)
+Seq1	Seq1	IPR019760	DNA-directed DNA polymerase, family A, conserved site	Conserved_site	GO:0003887
+Seq1	Seq1	IPR019760	DNA-directed DNA polymerase, family A, conserved site	Conserved_site	GO:0006260
+Seq1	Seq1	IPR020045	5'-3' exonuclease, C-terminal domain	Domain	PF01367 (PFAM)
+Seq1	Seq1	IPR020045	5'-3' exonuclease, C-terminal domain	Domain	SSF47807 (SUPERFAMILY)
+Seq1	Seq1	IPR020045	5'-3' exonuclease, C-terminal domain	Domain	GO:0003677
+Seq1	Seq1	IPR020045	5'-3' exonuclease, C-terminal domain	Domain	GO:0003824
+Seq1	Seq1	IPR020046	5'-3' exonuclease, alpha-helical arch, N-terminal	Domain	PF02739 (PFAM)
+Seq1	Seq1	IPR020046	5'-3' exonuclease, alpha-helical arch, N-terminal	Domain	GO:0003677
+Seq1	Seq1	IPR020046	5'-3' exonuclease, alpha-helical arch, N-terminal	Domain	GO:0008409
+Seq1	Seq1	noIPR	unintegrated	unintegrated	G3DSA:1.10.150.20 (GENE3D)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	G3DSA:1.20.1060.10 (GENE3D)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	G3DSA:3.30.420.10 (GENE3D)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	G3DSA:3.30.70.370 (GENE3D)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	G3DSA:3.40.50.1010 (GENE3D)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	PTHR10133 (PANTHER)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	PTHR10133:SF20 (PANTHER)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	tmhmm (TMHMM)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	SSF56672 (SUPERFAMILY)
+Seq1	Seq1	noIPR	unintegrated	unintegrated	SSF88723 (SUPERFAMILY)
+Seq1	Seq1	noIPR	unintegrated	unintegrated
+Seq2	Seq2	IPR000056	Ribulose-phosphate 3-epimerase-like	Family	PTHR11749 (PANTHER)
+Seq2	Seq2	IPR000056	Ribulose-phosphate 3-epimerase-like	Family	PF00834 (PFAM)
+Seq2	Seq2	IPR000056	Ribulose-phosphate 3-epimerase-like	Family	TIGR01163 (TIGRFAMs)
+Seq2	Seq2	IPR000056	Ribulose-phosphate 3-epimerase-like	Family	PS01086 (PROSITE)
+Seq2	Seq2	IPR000056	Ribulose-phosphate 3-epimerase-like	Family	GO:0005975
+Seq2	Seq2	IPR011060	Ribulose-phosphate binding barrel	Domain	SSF51366 (SUPERFAMILY)
+Seq2	Seq2	IPR011060	Ribulose-phosphate binding barrel	Domain	GO:0003824
+Seq2	Seq2	IPR011060	Ribulose-phosphate binding barrel	Domain	GO:0008152
+Seq2	Seq2	IPR013785	Aldolase-type TIM barrel	Domain	G3DSA:3.20.20.70 (GENE3D)
+Seq2	Seq2	IPR013785	Aldolase-type TIM barrel	Domain	GO:0003824
+Seq2	Seq2	IPR026019	Ribulose-phosphate 3-epimerase	Family	PIRSF001461 (PIR)
+Seq2	Seq2	IPR026019	Ribulose-phosphate 3-epimerase	Family	GO:0004750
+Seq2	Seq2	IPR026019	Ribulose-phosphate 3-epimerase	Family	GO:0006098
+Seq2	Seq2	noIPR	unintegrated	unintegrated	tmhmm (TMHMM)
+Seq2	Seq2	noIPR	unintegrated	unintegrated
+Seq3	Seq3	IPR003453	Permease domain	Domain	PF02405 (PFAM)
+Seq3	Seq3	IPR003453	Permease domain	Domain
+Seq3	Seq3	noIPR	unintegrated	unintegrated	PTHR30188 (PANTHER)
+Seq3	Seq3	noIPR	unintegrated	unintegrated	SignalP-NN(euk) (SIGNALP)
+Seq3	Seq3	noIPR	unintegrated	unintegrated	tmhmm (TMHMM)
+Seq3	Seq3	noIPR	unintegrated	unintegrated
+Seq4	Seq4	IPR003439	ABC transporter-like	Domain	PF00005 (PFAM)
+Seq4	Seq4	IPR003439	ABC transporter-like	Domain	PS50893 (PROFILE)
+Seq4	Seq4	IPR003439	ABC transporter-like	Domain	GO:0005524
+Seq4	Seq4	IPR003439	ABC transporter-like	Domain	GO:0016887
+Seq4	Seq4	IPR003593	AAA+ ATPase domain	Domain	SM00382 (SMART)
+Seq4	Seq4	IPR003593	AAA+ ATPase domain	Domain	GO:0000166
+Seq4	Seq4	IPR003593	AAA+ ATPase domain	Domain	GO:0017111
+Seq4	Seq4	IPR017871	ABC transporter, conserved site	Conserved_site	PS00211 (PROSITE)
+Seq4	Seq4	IPR017871	ABC transporter, conserved site	Conserved_site	GO:0005524
+Seq4	Seq4	IPR017871	ABC transporter, conserved site	Conserved_site	GO:0016887
+Seq4	Seq4	IPR025662	Sigma-54 interaction domain, ATP-binding site 1	Binding_site	PS00675 (PROSITE)
+Seq4	Seq4	IPR025662	Sigma-54 interaction domain, ATP-binding site 1	Binding_site
+Seq4	Seq4	IPR027417	P-loop containing nucleoside triphosphate hydrolase	Domain	SSF52540 (SUPERFAMILY)
+Seq4	Seq4	IPR027417	P-loop containing nucleoside triphosphate hydrolase	Domain
+Seq4	Seq4	noIPR	unintegrated	unintegrated	G3DSA:3.40.50.300 (GENE3D)
+Seq4	Seq4	noIPR	unintegrated	unintegrated	PTHR24220 (PANTHER)
+Seq4	Seq4	noIPR	unintegrated	unintegrated	PTHR24220:SF123 (PANTHER)
+Seq4	Seq4	noIPR	unintegrated	unintegrated
+Seq6	Seq6	IPR002818	ThiJ/PfpI	Domain	PF01965 (PFAM)
+Seq6	Seq6	IPR002818	ThiJ/PfpI	Domain
+Seq6	Seq6	noIPR	unintegrated	unintegrated	G3DSA:3.40.50.880 (GENE3D)
+Seq6	Seq6	noIPR	unintegrated	unintegrated	PTHR32270 (PANTHER)
+Seq6	Seq6	noIPR	unintegrated	unintegrated	PTHR32270:SF2 (PANTHER)
+Seq6	Seq6	noIPR	unintegrated	unintegrated	SSF52317 (SUPERFAMILY)
+Seq6	Seq6	noIPR	unintegrated	unintegrated
+Seq7	Seq7	IPR002133	S-adenosylmethionine synthetase	Family	PIRSF000497 (PIR)
+Seq7	Seq7	IPR002133	S-adenosylmethionine synthetase	Family	PTHR11964 (PANTHER)
+Seq7	Seq7	IPR002133	S-adenosylmethionine synthetase	Family	TIGR01034 (TIGRFAMs)
+Seq7	Seq7	IPR002133	S-adenosylmethionine synthetase	Family	GO:0004478
+Seq7	Seq7	IPR002133	S-adenosylmethionine synthetase	Family	GO:0005524
+Seq7	Seq7	IPR002133	S-adenosylmethionine synthetase	Family	GO:0006556
+Seq7	Seq7	IPR022628	S-adenosylmethionine synthetase, N-terminal	Domain	PF00438 (PFAM)
+Seq7	Seq7	IPR022628	S-adenosylmethionine synthetase, N-terminal	Domain	GO:0004478
+Seq7	Seq7	IPR022628	S-adenosylmethionine synthetase, N-terminal	Domain	GO:0006556
+Seq7	Seq7	IPR022629	S-adenosylmethionine synthetase, central domain	Domain	PF02772 (PFAM)
+Seq7	Seq7	IPR022629	S-adenosylmethionine synthetase, central domain	Domain	GO:0004478
+Seq7	Seq7	IPR022629	S-adenosylmethionine synthetase, central domain	Domain	GO:0006556
+Seq7	Seq7	IPR022630	S-adenosylmethionine synthetase, C-terminal	Domain	PF02773 (PFAM)
+Seq7	Seq7	IPR022630	S-adenosylmethionine synthetase, C-terminal	Domain	GO:0004478
+Seq7	Seq7	IPR022630	S-adenosylmethionine synthetase, C-terminal	Domain	GO:0006556
+Seq7	Seq7	IPR022631	S-adenosylmethionine synthetase, conserved site	Conserved_site	PS00376 (PROSITE)
+Seq7	Seq7	IPR022631	S-adenosylmethionine synthetase, conserved site	Conserved_site	PS00377 (PROSITE)
+Seq7	Seq7	IPR022631	S-adenosylmethionine synthetase, conserved site	Conserved_site	GO:0004478
+Seq7	Seq7	IPR022631	S-adenosylmethionine synthetase, conserved site	Conserved_site	GO:0006556
+Seq7	Seq7	IPR022636	S-adenosylmethionine synthetase superfamily	Domain	SSF55973 (SUPERFAMILY)
+Seq7	Seq7	IPR022636	S-adenosylmethionine synthetase superfamily	Domain	GO:0004478
+Seq7	Seq7	IPR022636	S-adenosylmethionine synthetase superfamily	Domain	GO:0006556
+Seq7	Seq7	noIPR	unintegrated	unintegrated	G3DSA:3.30.300.10 (GENE3D)
+Seq7	Seq7	noIPR	unintegrated	unintegrated	PTHR11964:SF0 (PANTHER)
+Seq7	Seq7	noIPR	unintegrated	unintegrated
+Seq8	Seq8	IPR002938	Monooxygenase, FAD-binding	Domain	PF01494 (PFAM)
+Seq8	Seq8	IPR002938	Monooxygenase, FAD-binding	Domain
+Seq8	Seq8	IPR003042	Aromatic-ring hydroxylase-like	Domain	PR00420 (PRINTS)
+Seq8	Seq8	IPR003042	Aromatic-ring hydroxylase-like	Domain	GO:0008152
+Seq8	Seq8	IPR003042	Aromatic-ring hydroxylase-like	Domain	GO:0016491
+Seq8	Seq8	IPR010971	Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6	Family	TIGR01988 (TIGRFAMs)
+Seq8	Seq8	IPR010971	Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6	Family	GO:0006744
+Seq8	Seq8	IPR010971	Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6	Family	GO:0050660
+Seq8	Seq8	IPR010971	Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6	Family	GO:0055114
+Seq8	Seq8	IPR018168	Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6, conserved site	Conserved_site	PS01304 (PROSITE)
+Seq8	Seq8	IPR018168	Ubiquinone biosynthesis hydroxylase, UbiH/UbiF/VisC/COQ6, conserved site	Conserved_site	GO:0055114
+Seq8	Seq8	noIPR	unintegrated	unintegrated	G3DSA:3.50.50.60 (GENE3D)
+Seq8	Seq8	noIPR	unintegrated	unintegrated	PTHR13789 (PANTHER)
+Seq8	Seq8	noIPR	unintegrated	unintegrated	PTHR13789:SF5 (PANTHER)
+Seq8	Seq8	noIPR	unintegrated	unintegrated	SSF51905 (SUPERFAMILY)
+Seq8	Seq8	noIPR	unintegrated	unintegrated
+Seq9	Seq9	noIPR	unintegrated	unintegrated	SignalP-NN(euk) (SIGNALP)
+Seq9	Seq9	noIPR	unintegrated	unintegrated

@@ -1,0 +1,7 @@
+Pathway	Seqs in Pathway	Enzyme	Ezyme ID	Seqs of Enzyme	Seqs	Pathway ID	Pathway Image
+Carbon fixation in photosynthetic organisms	1	3-epimerase	ec:5.1.3.1	1	Seq2	map00710	map00710_20130624162046.png
+Pentose phosphate pathway	1	3-epimerase	ec:5.1.3.1	1	Seq2	map00030	map00030_20130624162042.png
+Pyrimidine metabolism	1	DNA polymerase	ec:2.7.7.7	1	Seq1	map00240	map00240_20130624162031.png
+Purine metabolism	1	DNA polymerase	ec:2.7.7.7	1	Seq1	map00230	map00230_20130624162025.png
+Pentose and glucuronate interconversions	1	3-epimerase	ec:5.1.3.1	1	Seq2	map00040	map00040_20130624162051.png
+Cysteine and methionine metabolism	1	adenosyltransferase	ec:2.5.1.6	1	Seq7	map00270	map00270_20130624162037.png
