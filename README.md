@@ -8,6 +8,16 @@ The instructions on using the two apps are in the README pdf:
 
 ![db and search instructions](README.pdf)
 
+---
+
+<object data="./README.pdf" type="application/pdf">
+    <embed src="./README.pdf">
+        <p>This browser does not support PDFs. Please download (or go to the file's page in github) the PDF to view it: <a href="./README.pdf">pdf link</a>.</p>
+    </embed>
+</object>
+
+---
+
 As of 2022, these apps are still used in the Hill labs for processing transcriptomes.
 
 While functional, the reliance on text/string based processing and storage is both inefficient and ugly. If this breaks at some point, or new features are needed, I might revamp this project.
